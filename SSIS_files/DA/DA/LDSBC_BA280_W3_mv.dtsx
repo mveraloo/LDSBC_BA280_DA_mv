@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="LDSBC_BA280_W3_mv"
   DTS:PackageType="5"
-  DTS:VersionBuild="19"
-  DTS:VersionGUID="{C6F01760-07B7-45F7-903B-DA1FA08903F0}">
+  DTS:VersionBuild="20"
+  DTS:VersionGUID="{24CF4B2E-05DE-4FED-800F-973221DD0744}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -193,6 +193,183 @@
           DTS:ConnectionString="Data Source=DESKTOP-RB9SMJ7;Initial Catalog=LDSBC_BA280_DA;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[t_us_state_dim.txt]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{3AF5596A-B359-4F51-A3AC-87EE4EB70F92}"
+      DTS:ObjectName="t_us_state_dim.txt">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1033"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\LDSBC\BA_280\LDSBC_BA280_DA_mv\txt_files\t_us_state_dim.txt">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="State Name"
+              DTS:DTSID="{09582728-751E-424B-AEA0-D9DABF5C4071}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ISO"
+              DTS:DTSID="{1ED12E58-1EED-4D00-9EC1-951DDBA8A037}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ANSI"
+              DTS:DTSID="{FB0C9667-EF24-4137-A294-50D9498EBE45}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="ANSI2"
+              DTS:DTSID="{62F2E09B-76B3-4727-B5DC-300219DD5E02}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="USPS"
+              DTS:DTSID="{C39A3226-7146-45F1-9C41-9DD9016FCBB7}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="USCG"
+              DTS:DTSID="{2B3C80DF-FC2A-4336-9685-6D9436DD0F9C}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x0009_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="GPO"
+              DTS:DTSID="{53529681-AEAD-4002-B653-36840F88DF2B}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="AP"
+              DTS:DTSID="{21D34361-555B-4E4A-B76C-E55789E2CFFD}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
+    <DTS:ConnectionManager
+      DTS:refId="Package.ConnectionManagers[ZipLatLong.csv]"
+      DTS:CreationName="FLATFILE"
+      DTS:DTSID="{740D82A9-E2B1-48E0-B5EF-14173664C2B3}"
+      DTS:ObjectName="ZipLatLong.csv">
+      <DTS:ObjectData>
+        <DTS:ConnectionManager
+          DTS:Format="Delimited"
+          DTS:LocaleID="1033"
+          DTS:HeaderRowDelimiter="_x000D__x000A_"
+          DTS:ColumnNamesInFirstDataRow="True"
+          DTS:RowDelimiter=""
+          DTS:TextQualifier="_x003C_none_x003E_"
+          DTS:CodePage="1252"
+          DTS:ConnectionString="C:\LDSBC\BA_280\LDSBC_BA280_DA_mv\csv_files\ZipLatLong.csv">
+          <DTS:FlatFileColumns>
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="Zip"
+              DTS:DTSID="{7967FD04-775E-4444-A4D5-28BFC49AEA71}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="city"
+              DTS:DTSID="{6A32A205-C5D7-4912-B4DB-AC44CB3A51CF}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="state"
+              DTS:DTSID="{A548BB12-EEDE-4E8F-9BF8-470D82D3FBEF}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="131"
+              DTS:DataPrecision="18"
+              DTS:DataScale="10"
+              DTS:TextQualified="True"
+              DTS:ObjectName="latitude"
+              DTS:DTSID="{0814E84E-7442-4B6D-887A-BF70EA708EEA}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:DataType="131"
+              DTS:DataPrecision="18"
+              DTS:DataScale="10"
+              DTS:TextQualified="True"
+              DTS:ObjectName="longitude"
+              DTS:DTSID="{5F10FB58-2742-4169-BF10-AAF96C151ED2}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x002C_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="timezone"
+              DTS:DTSID="{8389B9E8-6FD8-4218-93CD-EE52CA71CCDD}"
+              DTS:CreationName="" />
+            <DTS:FlatFileColumn
+              DTS:ColumnType="Delimited"
+              DTS:ColumnDelimiter="_x000D__x000A_"
+              DTS:MaximumWidth="50"
+              DTS:DataType="129"
+              DTS:TextQualified="True"
+              DTS:ObjectName="dst"
+              DTS:DTSID="{07D27A7A-853F-4C06-A1B6-4E8F8294EBCB}"
+              DTS:CreationName="" />
+          </DTS:FlatFileColumns>
+        </DTS:ConnectionManager>
+      </DTS:ObjectData>
+    </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
   <DTS:Variables />
   <DTS:Executables>
@@ -200,6 +377,7 @@
       DTS:refId="Package\Avocado Data Analysis"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
+      DTS:Disabled="True"
       DTS:DTSID="{B5A64ECE-0502-4D63-ACD0-47776B18BD2E}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"
@@ -1111,6 +1289,1041 @@
           DTS:To="Package\Avocado Data Analysis\Load target" />
       </DTS:PrecedenceConstraints>
     </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\US Zip Code Geo coordinates"
+      DTS:CreationName="STOCK:SEQUENCE"
+      DTS:Description="Sequence Container"
+      DTS:DTSID="{8082020E-F636-459D-AA44-9488F1F56AA2}"
+      DTS:ExecutableType="STOCK:SEQUENCE"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="US Zip Code Geo coordinates">
+      <DTS:Variables />
+      <DTS:Executables>
+        <DTS:Executable
+          DTS:refId="Package\US Zip Code Geo coordinates\Load target"
+          DTS:CreationName="Microsoft.Pipeline"
+          DTS:Description="Data Flow Task"
+          DTS:DTSID="{3E8A8B10-4EDE-4D22-B429-A40C6DA9C30B}"
+          DTS:ExecutableType="Microsoft.Pipeline"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Load target"
+          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <pipeline
+              version="1">
+              <components>
+                <component
+                  refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="dbo_t_us_state_dim"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[dbo].[t_us_state_dim]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">3</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">false</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[LDSBC_BA280_DA_ole_db]"
+                      connectionManagerRefId="Package.ConnectionManagers[LDSBC_BA280_DA_ole_db]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].Columns[State Name]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="State Name"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[State Name]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[State Name]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].Columns[ISO]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="ISO"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[ISO]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[ISO]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].Columns[ANSI]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="ANSI"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[ANSI]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[ANSI]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].Columns[ANSI2]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="ANSI2"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[ANSI2]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[ANSI2]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].Columns[USPS]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="USPS"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[USPS]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[USPS]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].Columns[USCG]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="USCG"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[USCG]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[USCG]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].Columns[GPO]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="GPO"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[GPO]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[GPO]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].Columns[AP]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="AP"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[AP]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[AP]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[State Name]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="State Name" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[ISO]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="ISO" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[ANSI]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="ANSI" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[ANSI2]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="ANSI2" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[USPS]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="USPS" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[USCG]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="USCG" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[GPO]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="GPO" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input].ExternalColumns[AP]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="AP" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong"
+                  componentClassID="Microsoft.OLEDBDestination"
+                  contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+                  description="OLE DB Destination"
+                  name="dbo_ZipLatLong"
+                  usesDispositions="true"
+                  version="4">
+                  <properties>
+                    <property
+                      dataType="System.Int32"
+                      description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                      name="CommandTimeout">0</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of the database object used to open a rowset."
+                      name="OpenRowset">[dbo].[ZipLatLong]</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the variable that contains the name of the database object used to open a rowset."
+                      name="OpenRowsetVariable"></property>
+                    <property
+                      dataType="System.String"
+                      description="The SQL command to be executed."
+                      name="SqlCommand"
+                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the column code page to use when code page information is unavailable from the data source."
+                      name="DefaultCodePage">1252</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Forces the use of the DefaultCodePage property value when describing character data."
+                      name="AlwaysUseDefaultCodePage">false</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies the mode used to access the database."
+                      name="AccessMode"
+                      typeConverter="AccessMode">3</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepIdentity">false</property>
+                    <property
+                      dataType="System.Boolean"
+                      description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                      name="FastLoadKeepNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                    <property
+                      dataType="System.Int32"
+                      description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                      name="FastLoadMaxInsertCommitSize">2147483647</property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Connections[OleDbConnection]"
+                      connectionManagerID="Package.ConnectionManagers[LDSBC_BA280_DA_ole_db]"
+                      connectionManagerRefId="Package.ConnectionManagers[LDSBC_BA280_DA_ole_db]"
+                      description="The OLE DB runtime connection used to access the database."
+                      name="OleDbConnection" />
+                  </connections>
+                  <inputs>
+                    <input
+                      refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input]"
+                      errorOrTruncationOperation="Insert"
+                      errorRowDisposition="FailComponent"
+                      hasSideEffects="true"
+                      name="OLE DB Destination Input">
+                      <inputColumns>
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].Columns[Zip]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="Zip"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[Zip]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[Zip]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].Columns[city]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="city"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[city]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[city]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].Columns[state]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="state"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[state]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[state]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].Columns[latitude]"
+                          cachedDataType="numeric"
+                          cachedName="latitude"
+                          cachedPrecision="18"
+                          cachedScale="10"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[latitude]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[latitude]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].Columns[longitude]"
+                          cachedDataType="numeric"
+                          cachedName="longitude"
+                          cachedPrecision="18"
+                          cachedScale="10"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[longitude]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[longitude]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].Columns[timezone]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="timezone"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[timezone]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[timezone]" />
+                        <inputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].Columns[dst]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="50"
+                          cachedName="dst"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[dst]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[dst]" />
+                      </inputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[Zip]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="Zip" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[city]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="city" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[state]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="state" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[latitude]"
+                          dataType="numeric"
+                          name="latitude"
+                          precision="18"
+                          scale="10" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[longitude]"
+                          dataType="numeric"
+                          name="longitude"
+                          precision="18"
+                          scale="10" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[timezone]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="timezone" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input].ExternalColumns[dst]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="dst" />
+                      </externalMetadataColumns>
+                    </input>
+                  </inputs>
+                  <outputs>
+                    <output
+                      refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Outputs[OLE DB Destination Error Output]"
+                      exclusionGroup="1"
+                      isErrorOut="true"
+                      name="OLE DB Destination Error Output"
+                      synchronousInputId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input]">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt"
+                  componentClassID="Microsoft.FlatFileSource"
+                  contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+                  description="Flat File Source"
+                  localeId="1033"
+                  name="t_us_state_dim_txt"
+                  usesDispositions="true"
+                  version="1">
+                  <properties>
+                    <property
+                      dataType="System.Boolean"
+                      description="Specifies whether zero-length columns are treated as null."
+                      name="RetainNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                      name="FileNameColumnName"></property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Connections[FlatFileConnection]"
+                      connectionManagerID="Package.ConnectionManagers[t_us_state_dim.txt]"
+                      connectionManagerRefId="Package.ConnectionManagers[t_us_state_dim.txt]"
+                      name="FlatFileConnection" />
+                  </connections>
+                  <outputs>
+                    <output
+                      refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output]"
+                      name="Flat File Source Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[State Name]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[State Name]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[State Name]"
+                          name="State Name"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[ISO]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[ISO]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[ISO]"
+                          name="ISO"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[ANSI]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[ANSI]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[ANSI]"
+                          name="ANSI"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[ANSI2]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[ANSI2]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[ANSI2]"
+                          name="ANSI2"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[USPS]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[USPS]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[USPS]"
+                          name="USPS"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[USCG]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[USCG]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[USCG]"
+                          name="USCG"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[GPO]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[GPO]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[GPO]"
+                          name="GPO"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[AP]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[AP]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].Columns[AP]"
+                          name="AP"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                      </outputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[State Name]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="State Name" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[ISO]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="ISO" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[ANSI]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="ANSI" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[ANSI2]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="ANSI2" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[USPS]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="USPS" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[USCG]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="USCG" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[GPO]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="GPO" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output].ExternalColumns[AP]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="AP" />
+                      </externalMetadataColumns>
+                    </output>
+                    <output
+                      refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Error Output]"
+                      isErrorOut="true"
+                      name="Flat File Source Error Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                          codePage="1252"
+                          dataType="text"
+                          description="Flat File Source Error Output Column"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                          name="Flat File Source Error Output Column" />
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+                <component
+                  refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv"
+                  componentClassID="Microsoft.FlatFileSource"
+                  contactInfo="Flat File Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
+                  description="Flat File Source"
+                  localeId="1033"
+                  name="ZipLatLong_csv"
+                  usesDispositions="true"
+                  version="1">
+                  <properties>
+                    <property
+                      dataType="System.Boolean"
+                      description="Specifies whether zero-length columns are treated as null."
+                      name="RetainNulls">false</property>
+                    <property
+                      dataType="System.String"
+                      description="Specifies the name of an output column containing the file name. If no name is specified, no output column containing the file name will be generated."
+                      name="FileNameColumnName"></property>
+                  </properties>
+                  <connections>
+                    <connection
+                      refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Connections[FlatFileConnection]"
+                      connectionManagerID="Package.ConnectionManagers[ZipLatLong.csv]"
+                      connectionManagerRefId="Package.ConnectionManagers[ZipLatLong.csv]"
+                      name="FlatFileConnection" />
+                  </connections>
+                  <outputs>
+                    <output
+                      refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output]"
+                      name="Flat File Source Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[Zip]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[Zip]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[Zip]"
+                          name="Zip"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[city]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[city]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[city]"
+                          name="city"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[state]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[state]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[state]"
+                          name="state"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[latitude]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[latitude]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[latitude]"
+                          name="latitude"
+                          precision="18"
+                          scale="10"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[longitude]"
+                          dataType="numeric"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[longitude]"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[longitude]"
+                          name="longitude"
+                          precision="18"
+                          scale="10"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[timezone]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[timezone]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[timezone]"
+                          name="timezone"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[dst]"
+                          codePage="1252"
+                          dataType="str"
+                          errorOrTruncationOperation="Conversion"
+                          errorRowDisposition="FailComponent"
+                          externalMetadataColumnId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[dst]"
+                          length="50"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].Columns[dst]"
+                          name="dst"
+                          truncationRowDisposition="FailComponent">
+                          <properties>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                              name="FastParse">false</property>
+                            <property
+                              dataType="System.Boolean"
+                              description="Indicates whether the data is in binary format."
+                              name="UseBinaryFormat">false</property>
+                          </properties>
+                        </outputColumn>
+                      </outputColumns>
+                      <externalMetadataColumns
+                        isUsed="True">
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[Zip]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="Zip" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[city]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="city" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[state]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="state" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[latitude]"
+                          dataType="numeric"
+                          name="latitude"
+                          precision="18"
+                          scale="10" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[longitude]"
+                          dataType="numeric"
+                          name="longitude"
+                          precision="18"
+                          scale="10" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[timezone]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="timezone" />
+                        <externalMetadataColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output].ExternalColumns[dst]"
+                          codePage="1252"
+                          dataType="str"
+                          length="50"
+                          name="dst" />
+                      </externalMetadataColumns>
+                    </output>
+                    <output
+                      refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Error Output]"
+                      isErrorOut="true"
+                      name="Flat File Source Error Output">
+                      <outputColumns>
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                          codePage="1252"
+                          dataType="text"
+                          description="Flat File Source Error Output Column"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Error Output].Columns[Flat File Source Error Output Column]"
+                          name="Flat File Source Error Output Column" />
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                          dataType="i4"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Error Output].Columns[ErrorCode]"
+                          name="ErrorCode"
+                          specialFlags="1" />
+                        <outputColumn
+                          refId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                          dataType="i4"
+                          lineageId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Error Output].Columns[ErrorColumn]"
+                          name="ErrorColumn"
+                          specialFlags="2" />
+                      </outputColumns>
+                      <externalMetadataColumns />
+                    </output>
+                  </outputs>
+                </component>
+              </components>
+              <paths>
+                <path
+                  refId="Package\US Zip Code Geo coordinates\Load target.Paths[Flat File Source Output]"
+                  endId="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim.Inputs[OLE DB Destination Input]"
+                  name="Flat File Source Output"
+                  startId="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt.Outputs[Flat File Source Output]" />
+                <path
+                  refId="Package\US Zip Code Geo coordinates\Load target.Paths[Flat File Source Output1]"
+                  endId="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong.Inputs[OLE DB Destination Input]"
+                  name="Flat File Source Output"
+                  startId="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv.Outputs[Flat File Source Output]" />
+              </paths>
+            </pipeline>
+          </DTS:ObjectData>
+        </DTS:Executable>
+        <DTS:Executable
+          DTS:refId="Package\US Zip Code Geo coordinates\Truncate target"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Execute SQL Task"
+          DTS:DTSID="{95AEBD99-4D7B-45A8-A0E0-A2B69FEEF2D6}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+          DTS:LocaleID="-1"
+          DTS:ObjectName="Truncate target"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="2">
+          <DTS:Variables />
+          <DTS:ObjectData>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{83BF0E74-68B0-40EB-8227-3BA2CB84BF0F}"
+              SQLTask:SqlStatementSource="TRUNCATE TABLE [dbo].[t_us_state_dim];&#xA;TRUNCATE TABLE [dbo].[ZipLatLong];" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          </DTS:ObjectData>
+        </DTS:Executable>
+      </DTS:Executables>
+      <DTS:PrecedenceConstraints>
+        <DTS:PrecedenceConstraint
+          DTS:refId="Package\US Zip Code Geo coordinates.PrecedenceConstraints[Constraint]"
+          DTS:CreationName=""
+          DTS:DTSID="{F1D8DC9A-B12E-47D2-B397-3A92D9096CAD}"
+          DTS:From="Package\US Zip Code Geo coordinates\Truncate target"
+          DTS:LogicalAnd="True"
+          DTS:ObjectName="Constraint"
+          DTS:To="Package\US Zip Code Geo coordinates\Load target" />
+      </DTS:PrecedenceConstraints>
+    </DTS:Executable>
   </DTS:Executables>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -1123,17 +2336,58 @@
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="148.8,41.6"
-          Id="Package\Avocado Data Analysis\Truncate target"
-          TopLeft="5.49999999999994,5.49999999999995" />
+          Size="166.4,41.6"
+          Id="Package\Avocado Data Analysis\Data Profiling Task"
+          TopLeft="5.49999999999999,107.1" />
         <NodeLayout
           Size="131.2,41.6"
           Id="Package\Avocado Data Analysis\Load target"
-          TopLeft="14.3,107.1" />
+          TopLeft="232.1,107.1" />
+        <NodeLayout
+          Size="148.8,41.6"
+          Id="Package\Avocado Data Analysis\Truncate target"
+          TopLeft="223.3,5.49999999999995" />
         <EdgeLayout
           Id="Package\Avocado Data Analysis.PrecedenceConstraints[Constraint]"
+          TopLeft="297.7,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <ContainerLayout
+          HeaderHeight="43"
+          IsExpanded="True"
+          PanelSize="377.6,204"
+          Size="377.6,247.2"
+          Id="Package\Avocado Data Analysis"
+          TopLeft="3.64814822173426,8.38888891184763" />
+        <NodeLayout
+          Size="148.8,41.6"
+          Id="Package\US Zip Code Geo coordinates\Truncate target"
+          TopLeft="5.50000000000001,5.49999999999995" />
+        <NodeLayout
+          Size="131.2,41.6"
+          Id="Package\US Zip Code Geo coordinates\Load target"
+          TopLeft="14.3,107.1" />
+        <EdgeLayout
+          Id="Package\US Zip Code Geo coordinates.PrecedenceConstraints[Constraint]"
           TopLeft="79.9,47.1">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -1154,17 +2408,13 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="166.4,41.6"
-          Id="Package\Avocado Data Analysis\Data Profiling Task"
-          TopLeft="205.7,107.1" />
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="385.6,204"
-          Size="385.6,247.2"
-          Id="Package\Avocado Data Analysis"
-          TopLeft="5.50000000000003,5.50000000000003" />
+          PanelSize="160,204"
+          Size="160,247.2"
+          Id="Package\US Zip Code Geo coordinates"
+          TopLeft="443.3,5.49999999999991" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -1220,6 +2470,100 @@
   </TaskHost>
   <PipelineComponentMetadata
     design-time-name="Package\Avocado Data Analysis\Load target\dbo_avocado">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\US Zip Code Geo coordinates\Load target">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="152,41.6"
+          Id="Package\US Zip Code Geo coordinates\Load target\ZipLatLong_csv"
+          TopLeft="15.5,5.49999999999995" />
+        <NodeLayout
+          Size="165.6,41.6"
+          Id="Package\US Zip Code Geo coordinates\Load target\t_us_state_dim_txt"
+          TopLeft="247.1,5.49999999999995" />
+        <NodeLayout
+          Size="153.6,41.6"
+          Id="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong"
+          TopLeft="13.8333330021965,105.655555544076" />
+        <NodeLayout
+          Size="172,41.6"
+          Id="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim"
+          TopLeft="237.1,107.1" />
+        <EdgeLayout
+          Id="Package\US Zip Code Geo coordinates\Load target.Paths[Flat File Source Output]"
+          TopLeft="326.5,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\US Zip Code Geo coordinates\Load target.Paths[Flat File Source Output1]"
+          TopLeft="91.0666665010982,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,58.555555544076"
+              Start="0,0"
+              End="0,51.055555544076">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,51.055555544076" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\US Zip Code Geo coordinates\Load target\dbo_ZipLatLong">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\US Zip Code Geo coordinates\Load target\dbo_t_us_state_dim">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>

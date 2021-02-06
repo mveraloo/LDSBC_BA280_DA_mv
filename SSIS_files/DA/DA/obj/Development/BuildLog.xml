@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>DA</Name>
-    <LastWriteTime>2021-01-30T12:26:20.9671593Z</LastWriteTime>
+    <LastWriteTime>2021-02-06T22:45:38.094342Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>LDSBC_BA280_W3_mv.dtsx</Name>
-      <LastWriteTime>2021-01-30T12:29:16.9407191Z</LastWriteTime>
+      <LastWriteTime>2021-02-06T22:45:37.9846362Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
