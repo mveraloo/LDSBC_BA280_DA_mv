@@ -1,0 +1,3600 @@
+RowCount,Singer,Language,Song,Word
+1,Selena Gomez,English,Rare,Baby
+1,Selena Gomez,English,Rare,Baby
+1,Selena Gomez,English,Rare,You've
+1,Selena Gomez,English,Rare,Been
+1,Selena Gomez,English,Rare,So
+1,Selena Gomez,English,Rare,Distant
+1,Selena Gomez,English,Rare,From
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,Lately
+1,Selena Gomez,English,Rare,Lately
+1,Selena Gomez,English,Rare,And
+1,Selena Gomez,English,Rare,Lately
+1,Selena Gomez,English,Rare,And
+1,Selena Gomez,English,Rare,Lately
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Even
+1,Selena Gomez,English,Rare,Want
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,Call
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Baby
+1,Selena Gomez,English,Rare,Baby
+1,Selena Gomez,English,Rare,Saw
+1,Selena Gomez,English,Rare,Us
+1,Selena Gomez,English,Rare,Getting
+1,Selena Gomez,English,Rare,Older
+1,Selena Gomez,English,Rare,Older
+1,Selena Gomez,English,Rare,Burning
+1,Selena Gomez,English,Rare,Toast
+1,Selena Gomez,English,Rare,In
+1,Selena Gomez,English,Rare,The
+1,Selena Gomez,English,Rare,Toaster
+1,Selena Gomez,English,Rare,My
+1,Selena Gomez,English,Rare,Ambitions
+1,Selena Gomez,English,Rare,Were
+1,Selena Gomez,English,Rare,Too
+1,Selena Gomez,English,Rare,High
+1,Selena Gomez,English,Rare,High
+1,Selena Gomez,English,Rare,Waiting
+1,Selena Gomez,English,Rare,Up
+1,Selena Gomez,English,Rare,For
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Upstairs
+1,Selena Gomez,English,Rare,Upstairs
+1,Selena Gomez,English,Rare,Why
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Act
+1,Selena Gomez,English,Rare,Like
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,There
+1,Selena Gomez,English,Rare,Baby
+1,Selena Gomez,English,Rare,Right
+1,Selena Gomez,English,Rare,Now
+1,Selena Gomez,English,Rare,It
+1,Selena Gomez,English,Rare,Feels
+1,Selena Gomez,English,Rare,Like
+1,Selena Gomez,English,Rare,It
+1,Selena Gomez,English,Rare,Feels
+1,Selena Gomez,English,Rare,Like
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Care
+1,Selena Gomez,English,Rare,Oh
+1,Selena Gomez,English,Rare,Why
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Recognize
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,So
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,Always
+1,Selena Gomez,English,Rare,There
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Do
+1,Selena Gomez,English,Rare,The
+1,Selena Gomez,English,Rare,Same
+1,Selena Gomez,English,Rare,For
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,That's
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Fair
+1,Selena Gomez,English,Rare,I
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Have
+1,Selena Gomez,English,Rare,It
+1,Selena Gomez,English,Rare,All
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Claiming
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,But
+1,Selena Gomez,English,Rare,I
+1,Selena Gomez,English,Rare,Know
+1,Selena Gomez,English,Rare,That
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Special
+1,Selena Gomez,English,Rare,Special
+1,Selena Gomez,English,Rare,Yeah
+1,Selena Gomez,English,Rare,And
+1,Selena Gomez,English,Rare,I'll
+1,Selena Gomez,English,Rare,Bet
+1,Selena Gomez,English,Rare,There's
+1,Selena Gomez,English,Rare,Somebody
+1,Selena Gomez,English,Rare,Else
+1,Selena Gomez,English,Rare,Out
+1,Selena Gomez,English,Rare,There
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,Tell
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,Make
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,Feel
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,Baby
+1,Selena Gomez,English,Rare,Baby
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Make
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,Count
+1,Selena Gomez,English,Rare,Up
+1,Selena Gomez,English,Rare,All
+1,Selena Gomez,English,Rare,The
+1,Selena Gomez,English,Rare,Reasons
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,Stay
+1,Selena Gomez,English,Rare,With
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,No
+1,Selena Gomez,English,Rare,Reason
+1,Selena Gomez,English,Rare,No
+1,Selena Gomez,English,Rare,Reason
+1,Selena Gomez,English,Rare,Why
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,And
+1,Selena Gomez,English,Rare,I
+1,Selena Gomez,English,Rare,Are
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Succeeding
+1,Selena Gomez,English,Rare,Saw
+1,Selena Gomez,English,Rare,Us
+1,Selena Gomez,English,Rare,Getting
+1,Selena Gomez,English,Rare,Older
+1,Selena Gomez,English,Rare,Older
+1,Selena Gomez,English,Rare,Burning
+1,Selena Gomez,English,Rare,Toast
+1,Selena Gomez,English,Rare,In
+1,Selena Gomez,English,Rare,The
+1,Selena Gomez,English,Rare,Toaster
+1,Selena Gomez,English,Rare,My
+1,Selena Gomez,English,Rare,Ambitions
+1,Selena Gomez,English,Rare,Were
+1,Selena Gomez,English,Rare,Too
+1,Selena Gomez,English,Rare,High
+1,Selena Gomez,English,Rare,Too
+1,Selena Gomez,English,Rare,High
+1,Selena Gomez,English,Rare,Waiting
+1,Selena Gomez,English,Rare,Up
+1,Selena Gomez,English,Rare,For
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Upstairs
+1,Selena Gomez,English,Rare,Upstairs
+1,Selena Gomez,English,Rare,Why
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Act
+1,Selena Gomez,English,Rare,Like
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,There
+1,Selena Gomez,English,Rare,Baby
+1,Selena Gomez,English,Rare,Right
+1,Selena Gomez,English,Rare,Now
+1,Selena Gomez,English,Rare,It
+1,Selena Gomez,English,Rare,Feels
+1,Selena Gomez,English,Rare,Like
+1,Selena Gomez,English,Rare,What
+1,Selena Gomez,English,Rare,It
+1,Selena Gomez,English,Rare,Feels
+1,Selena Gomez,English,Rare,Like
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Care
+1,Selena Gomez,English,Rare,Oh
+1,Selena Gomez,English,Rare,Why
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Recognize
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,So
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,So
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,Always
+1,Selena Gomez,English,Rare,There
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Do
+1,Selena Gomez,English,Rare,The
+1,Selena Gomez,English,Rare,Same
+1,Selena Gomez,English,Rare,For
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,That's
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Fair
+1,Selena Gomez,English,Rare,I
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Have
+1,Selena Gomez,English,Rare,It
+1,Selena Gomez,English,Rare,All
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Claiming
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,But
+1,Selena Gomez,English,Rare,I
+1,Selena Gomez,English,Rare,Know
+1,Selena Gomez,English,Rare,That
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Special
+1,Selena Gomez,English,Rare,Special
+1,Selena Gomez,English,Rare,Yeah
+1,Selena Gomez,English,Rare,And
+1,Selena Gomez,English,Rare,I'll
+1,Selena Gomez,English,Rare,Bet
+1,Selena Gomez,English,Rare,There's
+1,Selena Gomez,English,Rare,Somebody
+1,Selena Gomez,English,Rare,Else
+1,Selena Gomez,English,Rare,Out
+1,Selena Gomez,English,Rare,There
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,Tell
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,Make
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,Feel
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Gonna
+1,Selena Gomez,English,Rare,Beg
+1,Selena Gomez,English,Rare,For
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Gonna
+1,Selena Gomez,English,Rare,Let
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Make
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,Cry
+1,Selena Gomez,English,Rare,Ah
+1,Selena Gomez,English,Rare,Nah
+1,Selena Gomez,English,Rare,Nah
+1,Selena Gomez,English,Rare,Make
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,Cry
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Getting
+1,Selena Gomez,English,Rare,Enough
+1,Selena Gomez,English,Rare,From
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Didn't
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Know
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Hard
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,Find
+1,Selena Gomez,English,Rare,Hard
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,Find
+1,Selena Gomez,English,Rare,Saw
+1,Selena Gomez,English,Rare,Us
+1,Selena Gomez,English,Rare,Getting
+1,Selena Gomez,English,Rare,Older
+1,Selena Gomez,English,Rare,Burning
+1,Selena Gomez,English,Rare,Toast
+1,Selena Gomez,English,Rare,In
+1,Selena Gomez,English,Rare,The
+1,Selena Gomez,English,Rare,Toaster
+1,Selena Gomez,English,Rare,My
+1,Selena Gomez,English,Rare,Ambitions
+1,Selena Gomez,English,Rare,Were
+1,Selena Gomez,English,Rare,Too
+1,Selena Gomez,English,Rare,High
+1,Selena Gomez,English,Rare,Too
+1,Selena Gomez,English,Rare,High
+1,Selena Gomez,English,Rare,Waiting
+1,Selena Gomez,English,Rare,Up
+1,Selena Gomez,English,Rare,For
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Upstairs
+1,Selena Gomez,English,Rare,Why
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Act
+1,Selena Gomez,English,Rare,Like
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,There
+1,Selena Gomez,English,Rare,Baby
+1,Selena Gomez,English,Rare,Right
+1,Selena Gomez,English,Rare,Now
+1,Selena Gomez,English,Rare,It
+1,Selena Gomez,English,Rare,Feels
+1,Selena Gomez,English,Rare,Like
+1,Selena Gomez,English,Rare,It
+1,Selena Gomez,English,Rare,Feels
+1,Selena Gomez,English,Rare,Like
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Care
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Care
+1,Selena Gomez,English,Rare,Why
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Recognize
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,So
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,So
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Always
+1,Selena Gomez,English,Rare,There
+1,Selena Gomez,English,Rare,You
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Do
+1,Selena Gomez,English,Rare,The
+1,Selena Gomez,English,Rare,Same
+1,Selena Gomez,English,Rare,For
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,That's
+1,Selena Gomez,English,Rare,That's
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Fair
+1,Selena Gomez,English,Rare,I
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Have
+1,Selena Gomez,English,Rare,It
+1,Selena Gomez,English,Rare,All
+1,Selena Gomez,English,Rare,I
+1,Selena Gomez,English,Rare,Don't
+1,Selena Gomez,English,Rare,Have
+1,Selena Gomez,English,Rare,It
+1,Selena Gomez,English,Rare,All
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Claiming
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Not
+1,Selena Gomez,English,Rare,Claiming
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,I
+1,Selena Gomez,English,Rare,Know
+1,Selena Gomez,English,Rare,That
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Special
+1,Selena Gomez,English,Rare,Special
+1,Selena Gomez,English,Rare,Yeah
+1,Selena Gomez,English,Rare,And
+1,Selena Gomez,English,Rare,I'll
+1,Selena Gomez,English,Rare,Bet
+1,Selena Gomez,English,Rare,There's
+1,Selena Gomez,English,Rare,Somebody
+1,Selena Gomez,English,Rare,Else
+1,Selena Gomez,English,Rare,Out
+1,Selena Gomez,English,Rare,There
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,Tell
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,I'm
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,To
+1,Selena Gomez,English,Rare,Make
+1,Selena Gomez,English,Rare,Me
+1,Selena Gomez,English,Rare,Feel
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Rare,So
+1,Selena Gomez,English,Rare,Rare
+1,Selena Gomez,English,Dance Again,Happiness
+1,Selena Gomez,English,Dance Again,Ain't
+1,Selena Gomez,English,Dance Again,Something
+1,Selena Gomez,English,Dance Again,You
+1,Selena Gomez,English,Dance Again,Sit
+1,Selena Gomez,English,Dance Again,Back
+1,Selena Gomez,English,Dance Again,And
+1,Selena Gomez,English,Dance Again,You
+1,Selena Gomez,English,Dance Again,Wait
+1,Selena Gomez,English,Dance Again,For
+1,Selena Gomez,English,Dance Again,Mm-mm
+1,Selena Gomez,English,Dance Again,Ah-ah
+1,Selena Gomez,English,Dance Again,Confidence
+1,Selena Gomez,English,Dance Again,Is
+1,Selena Gomez,English,Dance Again,Throwing
+1,Selena Gomez,English,Dance Again,Your
+1,Selena Gomez,English,Dance Again,Heart
+1,Selena Gomez,English,Dance Again,Through
+1,Selena Gomez,English,Dance Again,Every
+1,Selena Gomez,English,Dance Again,Brick
+1,Selena Gomez,English,Dance Again,Wall
+1,Selena Gomez,English,Dance Again,Mm-mm
+1,Selena Gomez,English,Dance Again,Ah-ah
+1,Selena Gomez,English,Dance Again,I
+1,Selena Gomez,English,Dance Again,Kick-start
+1,Selena Gomez,English,Dance Again,The
+1,Selena Gomez,English,Dance Again,Rhythm
+1,Selena Gomez,English,Dance Again,All
+1,Selena Gomez,English,Dance Again,The
+1,Selena Gomez,English,Dance Again,Trauma's
+1,Selena Gomez,English,Dance Again,In
+1,Selena Gomez,English,Dance Again,Remission
+1,Selena Gomez,English,Dance Again,No
+1,Selena Gomez,English,Dance Again,I
+1,Selena Gomez,English,Dance Again,Don't
+1,Selena Gomez,English,Dance Again,Need
+1,Selena Gomez,English,Dance Again,Permission
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,To
+1,Selena Gomez,English,Dance Again,Dance
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,To
+1,Selena Gomez,English,Dance Again,Dance
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,With
+1,Selena Gomez,English,Dance Again,My
+1,Selena Gomez,English,Dance Again,Emotions
+1,Selena Gomez,English,Dance Again,Undressed
+1,Selena Gomez,English,Dance Again,I'm
+1,Selena Gomez,English,Dance Again,Going
+1,Selena Gomez,English,Dance Again,In
+1,Selena Gomez,English,Dance Again,With
+1,Selena Gomez,English,Dance Again,Everything
+1,Selena Gomez,English,Dance Again,To
+1,Selena Gomez,English,Dance Again,Dance
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,Vulnerable
+1,Selena Gomez,English,Dance Again,Ain't
+1,Selena Gomez,English,Dance Again,Easy
+1,Selena Gomez,English,Dance Again,Believe
+1,Selena Gomez,English,Dance Again,Me
+1,Selena Gomez,English,Dance Again,But
+1,Selena Gomez,English,Dance Again,I
+1,Selena Gomez,English,Dance Again,Do
+1,Selena Gomez,English,Dance Again,It
+1,Selena Gomez,English,Dance Again,Mm-mm
+1,Selena Gomez,English,Dance Again,Ah-ah
+1,Selena Gomez,English,Dance Again,It's
+1,Selena Gomez,English,Dance Again,Like
+1,Selena Gomez,English,Dance Again,I'm
+1,Selena Gomez,English,Dance Again,Ten
+1,Selena Gomez,English,Dance Again,Feet
+1,Selena Gomez,English,Dance Again,Tall
+1,Selena Gomez,English,Dance Again,I'm
+1,Selena Gomez,English,Dance Again,High
+1,Selena Gomez,English,Dance Again,Off
+1,Selena Gomez,English,Dance Again,The
+1,Selena Gomez,English,Dance Again,Weight
+1,Selena Gomez,English,Dance Again,Of
+1,Selena Gomez,English,Dance Again,Them
+1,Selena Gomez,English,Dance Again,Shoulders
+1,Selena Gomez,English,Dance Again,Mm-mm
+1,Selena Gomez,English,Dance Again,Ah-ah
+1,Selena Gomez,English,Dance Again,I
+1,Selena Gomez,English,Dance Again,Kick-start
+1,Selena Gomez,English,Dance Again,The
+1,Selena Gomez,English,Dance Again,Rhythm
+1,Selena Gomez,English,Dance Again,All
+1,Selena Gomez,English,Dance Again,The
+1,Selena Gomez,English,Dance Again,Trauma's
+1,Selena Gomez,English,Dance Again,In
+1,Selena Gomez,English,Dance Again,Remission
+1,Selena Gomez,English,Dance Again,No
+1,Selena Gomez,English,Dance Again,I
+1,Selena Gomez,English,Dance Again,Don't
+1,Selena Gomez,English,Dance Again,Need
+1,Selena Gomez,English,Dance Again,Permission
+1,Selena Gomez,English,Dance Again,I
+1,Selena Gomez,English,Dance Again,Kick-start
+1,Selena Gomez,English,Dance Again,My
+1,Selena Gomez,English,Dance Again,System
+1,Selena Gomez,English,Dance Again,When
+1,Selena Gomez,English,Dance Again,I
+1,Selena Gomez,English,Dance Again,Speak
+1,Selena Gomez,English,Dance Again,My
+1,Selena Gomez,English,Dance Again,Body
+1,Selena Gomez,English,Dance Again,Listens
+1,Selena Gomez,English,Dance Again,I
+1,Selena Gomez,English,Dance Again,Know
+1,Selena Gomez,English,Dance Again,What
+1,Selena Gomez,English,Dance Again,I'm
+1,Selena Gomez,English,Dance Again,Missing
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,To
+1,Selena Gomez,English,Dance Again,Dance
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,To
+1,Selena Gomez,English,Dance Again,Dance
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,With
+1,Selena Gomez,English,Dance Again,My
+1,Selena Gomez,English,Dance Again,Emotions
+1,Selena Gomez,English,Dance Again,Undressed
+1,Selena Gomez,English,Dance Again,I'm
+1,Selena Gomez,English,Dance Again,Going
+1,Selena Gomez,English,Dance Again,In
+1,Selena Gomez,English,Dance Again,With
+1,Selena Gomez,English,Dance Again,Everything
+1,Selena Gomez,English,Dance Again,To
+1,Selena Gomez,English,Dance Again,Dance
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,Ooh
+1,Selena Gomez,English,Dance Again,I'm
+1,Selena Gomez,English,Dance Again,Feeling
+1,Selena Gomez,English,Dance Again,Ooh
+1,Selena Gomez,English,Dance Again,Me
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,Ooh
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,To
+1,Selena Gomez,English,Dance Again,Dance
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,Happiness
+1,Selena Gomez,English,Dance Again,Ain't
+1,Selena Gomez,English,Dance Again,Something
+1,Selena Gomez,English,Dance Again,You
+1,Selena Gomez,English,Dance Again,Sit
+1,Selena Gomez,English,Dance Again,Back
+1,Selena Gomez,English,Dance Again,And
+1,Selena Gomez,English,Dance Again,You
+1,Selena Gomez,English,Dance Again,Wait
+1,Selena Gomez,English,Dance Again,For
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,To
+1,Selena Gomez,English,Dance Again,Dance
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,To
+1,Selena Gomez,English,Dance Again,Dance
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,With
+1,Selena Gomez,English,Dance Again,My
+1,Selena Gomez,English,Dance Again,Emotions
+1,Selena Gomez,English,Dance Again,Undressed
+1,Selena Gomez,English,Dance Again,I'm
+1,Selena Gomez,English,Dance Again,Going
+1,Selena Gomez,English,Dance Again,In
+1,Selena Gomez,English,Dance Again,Going
+1,Selena Gomez,English,Dance Again,In
+1,Selena Gomez,English,Dance Again,With
+1,Selena Gomez,English,Dance Again,Everything
+1,Selena Gomez,English,Dance Again,Everything
+1,Selena Gomez,English,Dance Again,To
+1,Selena Gomez,English,Dance Again,Dance
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Dance Again,I
+1,Selena Gomez,English,Dance Again,Kick-start
+1,Selena Gomez,English,Dance Again,The
+1,Selena Gomez,English,Dance Again,Rhythm
+1,Selena Gomez,English,Dance Again,Ooh
+1,Selena Gomez,English,Dance Again,All
+1,Selena Gomez,English,Dance Again,The
+1,Selena Gomez,English,Dance Again,Trauma's
+1,Selena Gomez,English,Dance Again,In
+1,Selena Gomez,English,Dance Again,Remission
+1,Selena Gomez,English,Dance Again,Ooh
+1,Selena Gomez,English,Dance Again,I'm
+1,Selena Gomez,English,Dance Again,Feeling
+1,Selena Gomez,English,Dance Again,Mmm
+1,Selena Gomez,English,Dance Again,Ooh
+1,Selena Gomez,English,Dance Again,Ah
+1,Selena Gomez,English,Dance Again,Mmm
+1,Selena Gomez,English,Dance Again,Me
+1,Selena Gomez,English,Dance Again,Again
+1,Selena Gomez,English,Dance Again,I
+1,Selena Gomez,English,Dance Again,Kick-start
+1,Selena Gomez,English,Dance Again,The
+1,Selena Gomez,English,Dance Again,Rhythm
+1,Selena Gomez,English,Dance Again,Ooh
+1,Selena Gomez,English,Dance Again,Ah
+1,Selena Gomez,English,Dance Again,All
+1,Selena Gomez,English,Dance Again,The
+1,Selena Gomez,English,Dance Again,Trauma's
+1,Selena Gomez,English,Dance Again,In
+1,Selena Gomez,English,Dance Again,Remission
+1,Selena Gomez,English,Dance Again,Ooh
+1,Selena Gomez,English,Dance Again,I'm
+1,Selena Gomez,English,Dance Again,Feeling
+1,Selena Gomez,English,Dance Again,Mmm
+1,Selena Gomez,English,Dance Again,Ooh
+1,Selena Gomez,English,Dance Again,Ah
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Feels
+1,Selena Gomez,English,Dance Again,So
+1,Selena Gomez,English,Dance Again,Good
+1,Selena Gomez,English,Look At Her Now,They
+1,Selena Gomez,English,Look At Her Now,Fell
+1,Selena Gomez,English,Look At Her Now,In
+1,Selena Gomez,English,Look At Her Now,Love
+1,Selena Gomez,English,Look At Her Now,One
+1,Selena Gomez,English,Look At Her Now,Summer
+1,Selena Gomez,English,Look At Her Now,A
+1,Selena Gomez,English,Look At Her Now,Little
+1,Selena Gomez,English,Look At Her Now,Too
+1,Selena Gomez,English,Look At Her Now,Wild
+1,Selena Gomez,English,Look At Her Now,For
+1,Selena Gomez,English,Look At Her Now,Each
+1,Selena Gomez,English,Look At Her Now,Other
+1,Selena Gomez,English,Look At Her Now,Shiny
+1,Selena Gomez,English,Look At Her Now,Till
+1,Selena Gomez,English,Look At Her Now,It
+1,Selena Gomez,English,Look At Her Now,Wasn't
+1,Selena Gomez,English,Look At Her Now,Feels
+1,Selena Gomez,English,Look At Her Now,Good
+1,Selena Gomez,English,Look At Her Now,Till
+1,Selena Gomez,English,Look At Her Now,It
+1,Selena Gomez,English,Look At Her Now,Doesn'T
+1,Selena Gomez,English,Look At Her Now,It
+1,Selena Gomez,English,Look At Her Now,Was
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,First
+1,Selena Gomez,English,Look At Her Now,Real
+1,Selena Gomez,English,Look At Her Now,Lover
+1,Selena Gomez,English,Look At Her Now,His
+1,Selena Gomez,English,Look At Her Now,Too
+1,Selena Gomez,English,Look At Her Now,Till
+1,Selena Gomez,English,Look At Her Now,He
+1,Selena Gomez,English,Look At Her Now,Had
+1,Selena Gomez,English,Look At Her Now,Another
+1,Selena Gomez,English,Look At Her Now,Oh
+1,Selena Gomez,English,Look At Her Now,God
+1,Selena Gomez,English,Look At Her Now,When
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Found
+1,Selena Gomez,English,Look At Her Now,Out
+1,Selena Gomez,English,Look At Her Now,Trust
+1,Selena Gomez,English,Look At Her Now,Levels
+1,Selena Gomez,English,Look At Her Now,Went
+1,Selena Gomez,English,Look At Her Now,Way
+1,Selena Gomez,English,Look At Her Now,Down
+1,Selena Gomez,English,Look At Her Now,Of
+1,Selena Gomez,English,Look At Her Now,Course
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Was
+1,Selena Gomez,English,Look At Her Now,Sad
+1,Selena Gomez,English,Look At Her Now,But
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,She's
+1,Selena Gomez,English,Look At Her Now,Glad
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Dodged
+1,Selena Gomez,English,Look At Her Now,A
+1,Selena Gomez,English,Look At Her Now,Bullet
+1,Selena Gomez,English,Look At Her Now,Took
+1,Selena Gomez,English,Look At Her Now,A
+1,Selena Gomez,English,Look At Her Now,Few
+1,Selena Gomez,English,Look At Her Now,Years
+1,Selena Gomez,English,Look At Her Now,To
+1,Selena Gomez,English,Look At Her Now,Soak
+1,Selena Gomez,English,Look At Her Now,Up
+1,Selena Gomez,English,Look At Her Now,The
+1,Selena Gomez,English,Look At Her Now,Tears
+1,Selena Gomez,English,Look At Her Now,But
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Watch
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Go
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Watch
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Go
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Wow
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Watch
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Go
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Wow
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Fast
+1,Selena Gomez,English,Look At Her Now,Nights
+1,Selena Gomez,English,Look At Her Now,That
+1,Selena Gomez,English,Look At Her Now,Got
+1,Selena Gomez,English,Look At Her Now,Him
+1,Selena Gomez,English,Look At Her Now,That
+1,Selena Gomez,English,Look At Her Now,New
+1,Selena Gomez,English,Look At Her Now,Life
+1,Selena Gomez,English,Look At Her Now,Was
+1,Selena Gomez,English,Look At Her Now,His
+1,Selena Gomez,English,Look At Her Now,Problem
+1,Selena Gomez,English,Look At Her Now,Not
+1,Selena Gomez,English,Look At Her Now,Saying
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Was
+1,Selena Gomez,English,Look At Her Now,Perfect
+1,Selena Gomez,English,Look At Her Now,Still
+1,Selena Gomez,English,Look At Her Now,Regrets
+1,Selena Gomez,English,Look At Her Now,That
+1,Selena Gomez,English,Look At Her Now,Moment
+1,Selena Gomez,English,Look At Her Now,Like
+1,Selena Gomez,English,Look At Her Now,That
+1,Selena Gomez,English,Look At Her Now,Night
+1,Selena Gomez,English,Look At Her Now,Wasn't
+1,Selena Gomez,English,Look At Her Now,Wrong
+1,Selena Gomez,English,Look At Her Now,Wasn't
+1,Selena Gomez,English,Look At Her Now,Right
+1,Selena Gomez,English,Look At Her Now,What
+1,Selena Gomez,English,Look At Her Now,A
+1,Selena Gomez,English,Look At Her Now,Thing
+1,Selena Gomez,English,Look At Her Now,To
+1,Selena Gomez,English,Look At Her Now,Be
+1,Selena Gomez,English,Look At Her Now,Human
+1,Selena Gomez,English,Look At Her Now,Made
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,More
+1,Selena Gomez,English,Look At Her Now,Of
+1,Selena Gomez,English,Look At Her Now,Woman
+1,Selena Gomez,English,Look At Her Now,Of
+1,Selena Gomez,English,Look At Her Now,Course
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Was
+1,Selena Gomez,English,Look At Her Now,Sad
+1,Selena Gomez,English,Look At Her Now,But
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,She's
+1,Selena Gomez,English,Look At Her Now,Glad
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Dodged
+1,Selena Gomez,English,Look At Her Now,A
+1,Selena Gomez,English,Look At Her Now,Bullet
+1,Selena Gomez,English,Look At Her Now,Took
+1,Selena Gomez,English,Look At Her Now,A
+1,Selena Gomez,English,Look At Her Now,Few
+1,Selena Gomez,English,Look At Her Now,Years
+1,Selena Gomez,English,Look At Her Now,To
+1,Selena Gomez,English,Look At Her Now,Soak
+1,Selena Gomez,English,Look At Her Now,Up
+1,Selena Gomez,English,Look At Her Now,The
+1,Selena Gomez,English,Look At Her Now,Tears
+1,Selena Gomez,English,Look At Her Now,But
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Watch
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Go
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Watch
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Go
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Wow
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Watch
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Go
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Wow
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Wow
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Wow
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Knows
+1,Selena Gomez,English,Look At Her Now,She'll
+1,Selena Gomez,English,Look At Her Now,Find
+1,Selena Gomez,English,Look At Her Now,Love
+1,Selena Gomez,English,Look At Her Now,Only
+1,Selena Gomez,English,Look At Her Now,If
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Wants
+1,Selena Gomez,English,Look At Her Now,It
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Knows
+1,Selena Gomez,English,Look At Her Now,She'll
+1,Selena Gomez,English,Look At Her Now,Find
+1,Selena Gomez,English,Look At Her Now,Love
+1,Selena Gomez,English,Look At Her Now,Uhh
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Knows
+1,Selena Gomez,English,Look At Her Now,She'll
+1,Selena Gomez,English,Look At Her Now,Find
+1,Selena Gomez,English,Look At Her Now,Love
+1,Selena Gomez,English,Look At Her Now,Only
+1,Selena Gomez,English,Look At Her Now,If
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Wants
+1,Selena Gomez,English,Look At Her Now,It
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Knows
+1,Selena Gomez,English,Look At Her Now,She'll
+1,Selena Gomez,English,Look At Her Now,Find
+1,Selena Gomez,English,Look At Her Now,Love
+1,Selena Gomez,English,Look At Her Now,On
+1,Selena Gomez,English,Look At Her Now,The
+1,Selena Gomez,English,Look At Her Now,Up
+1,Selena Gomez,English,Look At Her Now,From
+1,Selena Gomez,English,Look At Her Now,The
+1,Selena Gomez,English,Look At Her Now,Way
+1,Selena Gomez,English,Look At Her Now,Down
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Watch
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Go
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Mmm
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Ohhhhh
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Knows
+1,Selena Gomez,English,Look At Her Now,She'll
+1,Selena Gomez,English,Look At Her Now,Find
+1,Selena Gomez,English,Look At Her Now,Love
+1,Selena Gomez,English,Look At Her Now,Only
+1,Selena Gomez,English,Look At Her Now,If
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Wants
+1,Selena Gomez,English,Look At Her Now,It
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Knows
+1,Selena Gomez,English,Look At Her Now,She'll
+1,Selena Gomez,English,Look At Her Now,Find
+1,Selena Gomez,English,Look At Her Now,Love
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Look At Her Now,Yeah
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Knows
+1,Selena Gomez,English,Look At Her Now,She'll
+1,Selena Gomez,English,Look At Her Now,Find
+1,Selena Gomez,English,Look At Her Now,Love
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Knows
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Will
+1,Selena Gomez,English,Look At Her Now,Only
+1,Selena Gomez,English,Look At Her Now,If
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Wants
+1,Selena Gomez,English,Look At Her Now,It
+1,Selena Gomez,English,Look At Her Now,She
+1,Selena Gomez,English,Look At Her Now,Knows
+1,Selena Gomez,English,Look At Her Now,She'll
+1,Selena Gomez,English,Look At Her Now,Find
+1,Selena Gomez,English,Look At Her Now,Love
+1,Selena Gomez,English,Look At Her Now,Wow
+1,Selena Gomez,English,Look At Her Now,Look
+1,Selena Gomez,English,Look At Her Now,At
+1,Selena Gomez,English,Look At Her Now,Her
+1,Selena Gomez,English,Look At Her Now,Now
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,Promised
+1,Selena Gomez,English,Lose You To Love Me,The
+1,Selena Gomez,English,Lose You To Love Me,World
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Fell
+1,Selena Gomez,English,Lose You To Love Me,For
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Put
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,First
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,Adored
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Set
+1,Selena Gomez,English,Lose You To Love Me,Fires
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,My
+1,Selena Gomez,English,Lose You To Love Me,Forest
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,Let
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Burn
+1,Selena Gomez,English,Lose You To Love Me,Sang
+1,Selena Gomez,English,Lose You To Love Me,Off-key
+1,Selena Gomez,English,Lose You To Love Me,In
+1,Selena Gomez,English,Lose You To Love Me,My
+1,Selena Gomez,English,Lose You To Love Me,'Cause
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Wasn't
+1,Selena Gomez,English,Lose You To Love Me,Yours
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Saw
+1,Selena Gomez,English,Lose You To Love Me,The
+1,Selena Gomez,English,Lose You To Love Me,Signs
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Ignored
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Rose-colored
+1,Selena Gomez,English,Lose You To Love Me,Glasses
+1,Selena Gomez,English,Lose You To Love Me,All
+1,Selena Gomez,English,Lose You To Love Me,Distorted
+1,Selena Gomez,English,Lose You To Love Me,Set
+1,Selena Gomez,English,Lose You To Love Me,Fire
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,My
+1,Selena Gomez,English,Lose You To Love Me,Purpose
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Let
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Burn
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,Got
+1,Selena Gomez,English,Lose You To Love Me,Off
+1,Selena Gomez,English,Lose You To Love Me,On
+1,Selena Gomez,English,Lose You To Love Me,The
+1,Selena Gomez,English,Lose You To Love Me,Hurtin'
+1,Selena Gomez,English,Lose You To Love Me,When
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Wasn't
+1,Selena Gomez,English,Lose You To Love Me,Yours
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,We'd
+1,Selena Gomez,English,Lose You To Love Me,Always
+1,Selena Gomez,English,Lose You To Love Me,Go
+1,Selena Gomez,English,Lose You To Love Me,Into
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Blindly
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Needed
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Lose
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Find
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,This
+1,Selena Gomez,English,Lose You To Love Me,Dancing
+1,Selena Gomez,English,Lose You To Love Me,Was
+1,Selena Gomez,English,Lose You To Love Me,Killing
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,Softly
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Needed
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Hate
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Needed
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Lose
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Needed
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Lose
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Gave
+1,Selena Gomez,English,Lose You To Love Me,My
+1,Selena Gomez,English,Lose You To Love Me,All
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,They
+1,Selena Gomez,English,Lose You To Love Me,All
+1,Selena Gomez,English,Lose You To Love Me,Know
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,Turned
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,Down
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,Now
+1,Selena Gomez,English,Lose You To Love Me,It's
+1,Selena Gomez,English,Lose You To Love Me,Showing
+1,Selena Gomez,English,Lose You To Love Me,In
+1,Selena Gomez,English,Lose You To Love Me,Two
+1,Selena Gomez,English,Lose You To Love Me,Months
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,Replaced
+1,Selena Gomez,English,Lose You To Love Me,Us
+1,Selena Gomez,English,Lose You To Love Me,Like
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Was
+1,Selena Gomez,English,Lose You To Love Me,Easy
+1,Selena Gomez,English,Lose You To Love Me,Made
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,Think
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Deserved
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,In
+1,Selena Gomez,English,Lose You To Love Me,The
+1,Selena Gomez,English,Lose You To Love Me,Thick
+1,Selena Gomez,English,Lose You To Love Me,Of
+1,Selena Gomez,English,Lose You To Love Me,Healing
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,We'd
+1,Selena Gomez,English,Lose You To Love Me,Always
+1,Selena Gomez,English,Lose You To Love Me,Go
+1,Selena Gomez,English,Lose You To Love Me,Into
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Blindly
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Needed
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Lose
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Find
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,This
+1,Selena Gomez,English,Lose You To Love Me,Dancing
+1,Selena Gomez,English,Lose You To Love Me,Was
+1,Selena Gomez,English,Lose You To Love Me,Killing
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,Softly
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Needed
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Hate
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Needed
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Lose
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Needed
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Lose
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,Promised
+1,Selena Gomez,English,Lose You To Love Me,The
+1,Selena Gomez,English,Lose You To Love Me,World
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Fell
+1,Selena Gomez,English,Lose You To Love Me,For
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Put
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,First
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,Adored
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Set
+1,Selena Gomez,English,Lose You To Love Me,Fires
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,My
+1,Selena Gomez,English,Lose You To Love Me,Forest
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,Let
+1,Selena Gomez,English,Lose You To Love Me,It
+1,Selena Gomez,English,Lose You To Love Me,Burn
+1,Selena Gomez,English,Lose You To Love Me,Sang
+1,Selena Gomez,English,Lose You To Love Me,Off-key
+1,Selena Gomez,English,Lose You To Love Me,In
+1,Selena Gomez,English,Lose You To Love Me,My
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Needed
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Hate
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,I
+1,Selena Gomez,English,Lose You To Love Me,Needed
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Lose
+1,Selena Gomez,English,Lose You To Love Me,You
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Me
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,Now
+1,Selena Gomez,English,Lose You To Love Me,The
+1,Selena Gomez,English,Lose You To Love Me,Chapter
+1,Selena Gomez,English,Lose You To Love Me,Is
+1,Selena Gomez,English,Lose You To Love Me,Closed
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,Done
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,To
+1,Selena Gomez,English,Lose You To Love Me,Love
+1,Selena Gomez,English,Lose You To Love Me,Yeah
+1,Selena Gomez,English,Lose You To Love Me,And
+1,Selena Gomez,English,Lose You To Love Me,Now
+1,Selena Gomez,English,Lose You To Love Me,It's
+1,Selena Gomez,English,Lose You To Love Me,Goodbye
+1,Selena Gomez,English,Lose You To Love Me,It's
+1,Selena Gomez,English,Lose You To Love Me,Goodbye
+1,Selena Gomez,English,Lose You To Love Me,For
+1,Selena Gomez,English,Lose You To Love Me,Us
+1,Selena Gomez,English,Ring,You
+1,Selena Gomez,English,Ring,All
+1,Selena Gomez,English,Ring,In
+1,Selena Gomez,English,Ring,Your
+1,Selena Gomez,English,Ring,Feelings
+1,Selena Gomez,English,Ring,Baby
+1,Selena Gomez,English,Ring,All
+1,Selena Gomez,English,Ring,Into
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,I'm
+1,Selena Gomez,English,Ring,One
+1,Selena Gomez,English,Ring,In
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,Billion
+1,Selena Gomez,English,Ring,Baby
+1,Selena Gomez,English,Ring,Don't
+1,Selena Gomez,English,Ring,You
+1,Selena Gomez,English,Ring,Agree
+1,Selena Gomez,English,Ring,Obviously
+1,Selena Gomez,English,Ring,You
+1,Selena Gomez,English,Ring,Know
+1,Selena Gomez,English,Ring,I'm
+1,Selena Gomez,English,Ring,Aware
+1,Selena Gomez,English,Ring,Of
+1,Selena Gomez,English,Ring,That
+1,Selena Gomez,English,Ring,I'm
+1,Selena Gomez,English,Ring,Breaking
+1,Selena Gomez,English,Ring,Hearts
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,Heart
+1,Selena Gomez,English,Ring,Attack
+1,Selena Gomez,English,Ring,Got
+1,Selena Gomez,English,Ring,Him
+1,Selena Gomez,English,Ring,Right
+1,Selena Gomez,English,Ring,Where
+1,Selena Gomez,English,Ring,The
+1,Selena Gomez,English,Ring,Carats
+1,Selena Gomez,English,Ring,At
+1,Selena Gomez,English,Ring,Wrapped
+1,Selena Gomez,English,Ring,'round
+1,Selena Gomez,English,Ring,My
+1,Selena Gomez,English,Ring,Finger
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Just
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,Puppets
+1,Selena Gomez,English,Ring,On
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,String
+1,Selena Gomez,English,Ring,String
+1,Selena Gomez,English,Ring,String
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Put
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,Down
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Call
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,Up
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Doing
+1,Selena Gomez,English,Ring,Way
+1,Selena Gomez,English,Ring,Too
+1,Selena Gomez,English,Ring,Much
+1,Selena Gomez,English,Ring,So
+1,Selena Gomez,English,Ring,I'll
+1,Selena Gomez,English,Ring,Just
+1,Selena Gomez,English,Ring,Let
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ooh-ooh
+1,Selena Gomez,English,Ring,Yeah
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Received
+1,Selena Gomez,English,Ring,Your
+1,Selena Gomez,English,Ring,Message
+1,Selena Gomez,English,Ring,All
+1,Selena Gomez,English,Ring,Twenty-three
+1,Selena Gomez,English,Ring,Twenty-three
+1,Selena Gomez,English,Ring,You
+1,Selena Gomez,English,Ring,Know
+1,Selena Gomez,English,Ring,I'm
+1,Selena Gomez,English,Ring,Jordan
+1,Selena Gomez,English,Ring,With
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,G-O-A-T
+1,Selena Gomez,English,Ring,G-O-A-T
+1,Selena Gomez,English,Ring,Obviously
+1,Selena Gomez,English,Ring,You
+1,Selena Gomez,English,Ring,Know
+1,Selena Gomez,English,Ring,I'm
+1,Selena Gomez,English,Ring,Aware
+1,Selena Gomez,English,Ring,Of
+1,Selena Gomez,English,Ring,That
+1,Selena Gomez,English,Ring,I'm
+1,Selena Gomez,English,Ring,Breaking
+1,Selena Gomez,English,Ring,Hearts
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,Heart
+1,Selena Gomez,English,Ring,Attack
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Got
+1,Selena Gomez,English,Ring,Him
+1,Selena Gomez,English,Ring,Right
+1,Selena Gomez,English,Ring,Where
+1,Selena Gomez,English,Ring,The
+1,Selena Gomez,English,Ring,Carats
+1,Selena Gomez,English,Ring,At
+1,Selena Gomez,English,Ring,Wrapped
+1,Selena Gomez,English,Ring,'round
+1,Selena Gomez,English,Ring,My
+1,Selena Gomez,English,Ring,Finger
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Just
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,Puppets
+1,Selena Gomez,English,Ring,On
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,String
+1,Selena Gomez,English,Ring,String
+1,Selena Gomez,English,Ring,String
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Put
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,Down
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Call
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,Up
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Doing
+1,Selena Gomez,English,Ring,Way
+1,Selena Gomez,English,Ring,Too
+1,Selena Gomez,English,Ring,Much
+1,Selena Gomez,English,Ring,So
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Just
+1,Selena Gomez,English,Ring,Let
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Wrapped
+1,Selena Gomez,English,Ring,'round
+1,Selena Gomez,English,Ring,My
+1,Selena Gomez,English,Ring,Finger
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Wanna
+1,Selena Gomez,English,Ring,Give
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,Everything
+1,Selena Gomez,English,Ring,Thing
+1,Selena Gomez,English,Ring,Thing
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Put
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,Down
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Call
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,Up
+1,Selena Gomez,English,Ring,Oh
+1,Selena Gomez,English,Ring,No
+1,Selena Gomez,English,Ring,No
+1,Selena Gomez,English,Ring,No
+1,Selena Gomez,English,Ring,No
+1,Selena Gomez,English,Ring,No
+1,Selena Gomez,English,Ring,So
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Just
+1,Selena Gomez,English,Ring,Let
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Circling
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Just
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,Satellites
+1,Selena Gomez,English,Ring,Circling
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,All
+1,Selena Gomez,English,Ring,Day
+1,Selena Gomez,English,Ring,And
+1,Selena Gomez,English,Ring,Every
+1,Selena Gomez,English,Ring,Night
+1,Selena Gomez,English,Ring,Circling
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,I'm
+1,Selena Gomez,English,Ring,Sure
+1,Selena Gomez,English,Ring,You
+1,Selena Gomez,English,Ring,Sympathize
+1,Selena Gomez,English,Ring,Oh
+1,Selena Gomez,English,Ring,Na-na
+1,Selena Gomez,English,Ring,Wrapped
+1,Selena Gomez,English,Ring,'round
+1,Selena Gomez,English,Ring,My
+1,Selena Gomez,English,Ring,Finger
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Just
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,Puppets
+1,Selena Gomez,English,Ring,On
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,String
+1,Selena Gomez,English,Ring,String
+1,Selena Gomez,English,Ring,String
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Put
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,Down
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Call
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,Up
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Doing
+1,Selena Gomez,English,Ring,Way
+1,Selena Gomez,English,Ring,Too
+1,Selena Gomez,English,Ring,Much
+1,Selena Gomez,English,Ring,So
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Just
+1,Selena Gomez,English,Ring,Let
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Wrapped
+1,Selena Gomez,English,Ring,'round
+1,Selena Gomez,English,Ring,My
+1,Selena Gomez,English,Ring,Finger
+1,Selena Gomez,English,Ring,Like
+1,Selena Gomez,English,Ring,A
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Wanna
+1,Selena Gomez,English,Ring,Give
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,Everything
+1,Selena Gomez,English,Ring,Thing
+1,Selena Gomez,English,Ring,Thing
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Put
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,Down
+1,Selena Gomez,English,Ring,They
+1,Selena Gomez,English,Ring,Call
+1,Selena Gomez,English,Ring,Me
+1,Selena Gomez,English,Ring,Up
+1,Selena Gomez,English,Ring,Oh
+1,Selena Gomez,English,Ring,No
+1,Selena Gomez,English,Ring,No
+1,Selena Gomez,English,Ring,No
+1,Selena Gomez,English,Ring,No
+1,Selena Gomez,English,Ring,No
+1,Selena Gomez,English,Ring,So
+1,Selena Gomez,English,Ring,I
+1,Selena Gomez,English,Ring,Just
+1,Selena Gomez,English,Ring,Let
+1,Selena Gomez,English,Ring,It
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Ring,Ring
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Gave
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Every
+1,Selena Gomez,English,Vulnerable,Piece
+1,Selena Gomez,English,Vulnerable,Of
+1,Selena Gomez,English,Vulnerable,Me
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Know
+1,Selena Gomez,English,Vulnerable,That
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Could
+1,Selena Gomez,English,Vulnerable,Drop
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,Give
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Chance
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Know
+1,Selena Gomez,English,Vulnerable,That
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Could
+1,Selena Gomez,English,Vulnerable,Take
+1,Selena Gomez,English,Vulnerable,Advantage
+1,Selena Gomez,English,Vulnerable,Once
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Got
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Open
+1,Selena Gomez,English,Vulnerable,Up
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Heart
+1,Selena Gomez,English,Vulnerable,To
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Know
+1,Selena Gomez,English,Vulnerable,That
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Could
+1,Selena Gomez,English,Vulnerable,Lock
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,Throw
+1,Selena Gomez,English,Vulnerable,Away
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Key
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,Keep
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,There
+1,Selena Gomez,English,Vulnerable,Forever
+1,Selena Gomez,English,Vulnerable,In
+1,Selena Gomez,English,Vulnerable,Your
+1,Selena Gomez,English,Vulnerable,Pocket
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Gave
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Opportunity
+1,Selena Gomez,English,Vulnerable,To
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Then
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Blow
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Was
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Greatest
+1,Selena Gomez,English,Vulnerable,Thing
+1,Selena Gomez,English,Vulnerable,That
+1,Selena Gomez,English,Vulnerable,Happened
+1,Selena Gomez,English,Vulnerable,To
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Know
+1,Selena Gomez,English,Vulnerable,It?
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Love
+1,Selena Gomez,English,Vulnerable,Was
+1,Selena Gomez,English,Vulnerable,Like
+1,Selena Gomez,English,Vulnerable,A
+1,Selena Gomez,English,Vulnerable,Flower
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Plant
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Grow
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Might
+1,Selena Gomez,English,Vulnerable,Give
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,All
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Body
+1,Selena Gomez,English,Vulnerable,Are
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Strong
+1,Selena Gomez,English,Vulnerable,Enough
+1,Selena Gomez,English,Vulnerable,To
+1,Selena Gomez,English,Vulnerable,Hold
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Show
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,All
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Demons
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,We
+1,Selena Gomez,English,Vulnerable,Dive
+1,Selena Gomez,English,Vulnerable,Into
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Deep
+1,Selena Gomez,English,Vulnerable,End
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,We
+1,Selena Gomez,English,Vulnerable,Crash
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,Burn
+1,Selena Gomez,English,Vulnerable,Like
+1,Selena Gomez,English,Vulnerable,Every
+1,Selena Gomez,English,Vulnerable,Time
+1,Selena Gomez,English,Vulnerable,Before
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,Tell
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,All
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Secrets
+1,Selena Gomez,English,Vulnerable,Wrap
+1,Selena Gomez,English,Vulnerable,Your
+1,Selena Gomez,English,Vulnerable,Arms
+1,Selena Gomez,English,Vulnerable,Around
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Weakness
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Only
+1,Selena Gomez,English,Vulnerable,Other
+1,Selena Gomez,English,Vulnerable,Option's
+1,Selena Gomez,English,Vulnerable,Letting
+1,Selena Gomez,English,Vulnerable,Go
+1,Selena Gomez,English,Vulnerable,I'll
+1,Selena Gomez,English,Vulnerable,Stay
+1,Selena Gomez,English,Vulnerable,Vulnerable
+1,Selena Gomez,English,Vulnerable,Yeah
+1,Selena Gomez,English,Vulnerable,I'll
+1,Selena Gomez,English,Vulnerable,Stay
+1,Selena Gomez,English,Vulnerable,Vulnerable
+1,Selena Gomez,English,Vulnerable,Yeah
+1,Selena Gomez,English,Vulnerable,I'll
+1,Selena Gomez,English,Vulnerable,Stay
+1,Selena Gomez,English,Vulnerable,Vulnerable
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Hand
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Emotions
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Even
+1,Selena Gomez,English,Vulnerable,Want
+1,Selena Gomez,English,Vulnerable,To
+1,Selena Gomez,English,Vulnerable,Take
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Even
+1,Selena Gomez,English,Vulnerable,Want
+1,Selena Gomez,English,Vulnerable,To
+1,Selena Gomez,English,Vulnerable,Take
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,Yeah
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Give
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,All
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Trust
+1,Selena Gomez,English,Vulnerable,Then
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Fumble
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,Break
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Let
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Cross
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Finish
+1,Selena Gomez,English,Vulnerable,Line
+1,Selena Gomez,English,Vulnerable,Then
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Wanna
+1,Selena Gomez,English,Vulnerable,Make
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Wanna
+1,Selena Gomez,English,Vulnerable,Make
+1,Selena Gomez,English,Vulnerable,It?
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Wanna
+1,Selena Gomez,English,Vulnerable,Make
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Think
+1,Selena Gomez,English,Vulnerable,I'm
+1,Selena Gomez,English,Vulnerable,Ready
+1,Selena Gomez,English,Vulnerable,Won't
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,Come
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,Flip
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Switch
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,Activate
+1,Selena Gomez,English,Vulnerable,It
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Show
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,All
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Demons
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,We
+1,Selena Gomez,English,Vulnerable,Dive
+1,Selena Gomez,English,Vulnerable,Into
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Deep
+1,Selena Gomez,English,Vulnerable,End
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,We
+1,Selena Gomez,English,Vulnerable,Crash
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,Burn
+1,Selena Gomez,English,Vulnerable,Like
+1,Selena Gomez,English,Vulnerable,Every
+1,Selena Gomez,English,Vulnerable,Time
+1,Selena Gomez,English,Vulnerable,Before
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,Tell
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,All
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Secrets
+1,Selena Gomez,English,Vulnerable,Wrap
+1,Selena Gomez,English,Vulnerable,Your
+1,Selena Gomez,English,Vulnerable,Arms
+1,Selena Gomez,English,Vulnerable,Around
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Weakness
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Only
+1,Selena Gomez,English,Vulnerable,Other
+1,Selena Gomez,English,Vulnerable,Option's
+1,Selena Gomez,English,Vulnerable,Letting
+1,Selena Gomez,English,Vulnerable,Go
+1,Selena Gomez,English,Vulnerable,I'll
+1,Selena Gomez,English,Vulnerable,Stay
+1,Selena Gomez,English,Vulnerable,Vulnerable
+1,Selena Gomez,English,Vulnerable,Yeah
+1,Selena Gomez,English,Vulnerable,I'll
+1,Selena Gomez,English,Vulnerable,Stay
+1,Selena Gomez,English,Vulnerable,Vulnerable
+1,Selena Gomez,English,Vulnerable,Yeah
+1,Selena Gomez,English,Vulnerable,I'll
+1,Selena Gomez,English,Vulnerable,Stay
+1,Selena Gomez,English,Vulnerable,Vulnerable
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Show
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,All
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Demons
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,We
+1,Selena Gomez,English,Vulnerable,Dive
+1,Selena Gomez,English,Vulnerable,Into
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Deep
+1,Selena Gomez,English,Vulnerable,End
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,We
+1,Selena Gomez,English,Vulnerable,Crash
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,Burn
+1,Selena Gomez,English,Vulnerable,Like
+1,Selena Gomez,English,Vulnerable,Every
+1,Selena Gomez,English,Vulnerable,Time
+1,Selena Gomez,English,Vulnerable,Before
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,Tell
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,All
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Secrets
+1,Selena Gomez,English,Vulnerable,Wrap
+1,Selena Gomez,English,Vulnerable,Your
+1,Selena Gomez,English,Vulnerable,Arms
+1,Selena Gomez,English,Vulnerable,Around
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Weakness
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Only
+1,Selena Gomez,English,Vulnerable,Other
+1,Selena Gomez,English,Vulnerable,Option's
+1,Selena Gomez,English,Vulnerable,Letting
+1,Selena Gomez,English,Vulnerable,Go
+1,Selena Gomez,English,Vulnerable,I'll
+1,Selena Gomez,English,Vulnerable,Stay
+1,Selena Gomez,English,Vulnerable,Vulnerable
+1,Selena Gomez,English,Vulnerable,Yeah
+1,Selena Gomez,English,Vulnerable,I'll
+1,Selena Gomez,English,Vulnerable,Stay
+1,Selena Gomez,English,Vulnerable,Vulnerable
+1,Selena Gomez,English,Vulnerable,Yeah
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Show
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,All
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Demons
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,We
+1,Selena Gomez,English,Vulnerable,Dive
+1,Selena Gomez,English,Vulnerable,Into
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Deep
+1,Selena Gomez,English,Vulnerable,End
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,We
+1,Selena Gomez,English,Vulnerable,Crash
+1,Selena Gomez,English,Vulnerable,And
+1,Selena Gomez,English,Vulnerable,Burn
+1,Selena Gomez,English,Vulnerable,Like
+1,Selena Gomez,English,Vulnerable,Every
+1,Selena Gomez,English,Vulnerable,Time
+1,Selena Gomez,English,Vulnerable,Before?
+1,Selena Gomez,English,Vulnerable,I'll
+1,Selena Gomez,English,Vulnerable,Stay
+1,Selena Gomez,English,Vulnerable,Vulnerable
+1,Selena Gomez,English,Vulnerable,I
+1,Selena Gomez,English,Vulnerable,Would
+1,Selena Gomez,English,Vulnerable,Tell
+1,Selena Gomez,English,Vulnerable,You
+1,Selena Gomez,English,Vulnerable,All
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Secrets
+1,Selena Gomez,English,Vulnerable,Wrap
+1,Selena Gomez,English,Vulnerable,Your
+1,Selena Gomez,English,Vulnerable,Arms
+1,Selena Gomez,English,Vulnerable,Around
+1,Selena Gomez,English,Vulnerable,My
+1,Selena Gomez,English,Vulnerable,Weakness
+1,Selena Gomez,English,Vulnerable,If
+1,Selena Gomez,English,Vulnerable,The
+1,Selena Gomez,English,Vulnerable,Only
+1,Selena Gomez,English,Vulnerable,Other
+1,Selena Gomez,English,Vulnerable,Option's
+1,Selena Gomez,English,Vulnerable,Letting
+1,Selena Gomez,English,Vulnerable,Go
+1,Selena Gomez,English,Vulnerable,I'll
+1,Selena Gomez,English,Vulnerable,Stay
+1,Selena Gomez,English,Vulnerable,Vulnerable
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Were
+1,Selena Gomez,English,People You Know,Running
+1,Selena Gomez,English,People You Know,Through
+1,Selena Gomez,English,People You Know,Me
+1,Selena Gomez,English,People You Know,Like
+1,Selena Gomez,English,People You Know,Water
+1,Selena Gomez,English,People You Know,Now
+1,Selena Gomez,English,People You Know,The
+1,Selena Gomez,English,People You Know,Feeling's
+1,Selena Gomez,English,People You Know,Leaving
+1,Selena Gomez,English,People You Know,Me
+1,Selena Gomez,English,People You Know,Dry
+1,Selena Gomez,English,People You Know,These
+1,Selena Gomez,English,People You Know,Days
+1,Selena Gomez,English,People You Know,We
+1,Selena Gomez,English,People You Know,Couldn't
+1,Selena Gomez,English,People You Know,Be
+1,Selena Gomez,English,People You Know,Farther
+1,Selena Gomez,English,People You Know,So
+1,Selena Gomez,English,People You Know,How's
+1,Selena Gomez,English,People You Know,It
+1,Selena Gomez,English,People You Know,Feel
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,Be
+1,Selena Gomez,English,People You Know,On
+1,Selena Gomez,English,People You Know,The
+1,Selena Gomez,English,People You Know,Other
+1,Selena Gomez,English,People You Know,Side
+1,Selena Gomez,English,People You Know,So
+1,Selena Gomez,English,People You Know,Many
+1,Selena Gomez,English,People You Know,Wasted
+1,Selena Gomez,English,People You Know,Wasted
+1,Selena Gomez,English,People You Know,Nights
+1,Selena Gomez,English,People You Know,With
+1,Selena Gomez,English,People You Know,Nights
+1,Selena Gomez,English,People You Know,With
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,I
+1,Selena Gomez,English,People You Know,Still
+1,Selena Gomez,English,People You Know,Could
+1,Selena Gomez,English,People You Know,Taste
+1,Selena Gomez,English,People You Know,It
+1,Selena Gomez,English,People You Know,Taste
+1,Selena Gomez,English,People You Know,It
+1,Selena Gomez,English,People You Know,I
+1,Selena Gomez,English,People You Know,Hate
+1,Selena Gomez,English,People You Know,It
+1,Selena Gomez,English,People You Know,Wish
+1,Selena Gomez,English,People You Know,I
+1,Selena Gomez,English,People You Know,Could
+1,Selena Gomez,English,People You Know,Take
+1,Selena Gomez,English,People You Know,It
+1,Selena Gomez,English,People You Know,Back
+1,Selena Gomez,English,People You Know,'cause
+1,Selena Gomez,English,People You Know,We
+1,Selena Gomez,English,People You Know,Used
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,Be
+1,Selena Gomez,English,People You Know,Close
+1,Selena Gomez,English,People You Know,But
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,And
+1,Selena Gomez,English,People You Know,What
+1,Selena Gomez,English,People You Know,Hurts
+1,Selena Gomez,English,People You Know,The
+1,Selena Gomez,English,People You Know,Most
+1,Selena Gomez,English,People You Know,Is
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,We
+1,Selena Gomez,English,People You Know,Used
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,Be
+1,Selena Gomez,English,People You Know,Close
+1,Selena Gomez,English,People You Know,But
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,And
+1,Selena Gomez,English,People You Know,What
+1,Selena Gomez,English,People You Know,Hurts
+1,Selena Gomez,English,People You Know,The
+1,Selena Gomez,English,People You Know,Most
+1,Selena Gomez,English,People You Know,Is
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,When
+1,Selena Gomez,English,People You Know,It
+1,Selena Gomez,English,People You Know,Was
+1,Selena Gomez,English,People You Know,Good
+1,Selena Gomez,English,People You Know,We
+1,Selena Gomez,English,People You Know,Were
+1,Selena Gomez,English,People You Know,On
+1,Selena Gomez,English,People You Know,Fire
+1,Selena Gomez,English,People You Know,Now
+1,Selena Gomez,English,People You Know,I'm
+1,Selena Gomez,English,People You Know,Breathing
+1,Selena Gomez,English,People You Know,Ashes
+1,Selena Gomez,English,People You Know,And
+1,Selena Gomez,English,People You Know,Dust
+1,Selena Gomez,English,People You Know,I
+1,Selena Gomez,English,People You Know,Always
+1,Selena Gomez,English,People You Know,Wanna
+1,Selena Gomez,English,People You Know,Get
+1,Selena Gomez,English,People You Know,Higher
+1,Selena Gomez,English,People You Know,I
+1,Selena Gomez,English,People You Know,Never
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,When
+1,Selena Gomez,English,People You Know,Enough
+1,Selena Gomez,English,People You Know,Is
+1,Selena Gomez,English,People You Know,Enough
+1,Selena Gomez,English,People You Know,So
+1,Selena Gomez,English,People You Know,Many
+1,Selena Gomez,English,People You Know,Wasted
+1,Selena Gomez,English,People You Know,Wasted
+1,Selena Gomez,English,People You Know,Nights
+1,Selena Gomez,English,People You Know,With
+1,Selena Gomez,English,People You Know,Nights
+1,Selena Gomez,English,People You Know,With
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,I
+1,Selena Gomez,English,People You Know,Still
+1,Selena Gomez,English,People You Know,Could
+1,Selena Gomez,English,People You Know,Taste
+1,Selena Gomez,English,People You Know,It
+1,Selena Gomez,English,People You Know,Taste
+1,Selena Gomez,English,People You Know,It
+1,Selena Gomez,English,People You Know,I
+1,Selena Gomez,English,People You Know,Hate
+1,Selena Gomez,English,People You Know,It
+1,Selena Gomez,English,People You Know,Wish
+1,Selena Gomez,English,People You Know,I
+1,Selena Gomez,English,People You Know,Could
+1,Selena Gomez,English,People You Know,Take
+1,Selena Gomez,English,People You Know,It
+1,Selena Gomez,English,People You Know,Back
+1,Selena Gomez,English,People You Know,'cause
+1,Selena Gomez,English,People You Know,We
+1,Selena Gomez,English,People You Know,Used
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,Be
+1,Selena Gomez,English,People You Know,Close
+1,Selena Gomez,English,People You Know,But
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,And
+1,Selena Gomez,English,People You Know,What
+1,Selena Gomez,English,People You Know,Hurts
+1,Selena Gomez,English,People You Know,The
+1,Selena Gomez,English,People You Know,Most
+1,Selena Gomez,English,People You Know,Is
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,We
+1,Selena Gomez,English,People You Know,Used
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,Be
+1,Selena Gomez,English,People You Know,Close
+1,Selena Gomez,English,People You Know,But
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,And
+1,Selena Gomez,English,People You Know,What
+1,Selena Gomez,English,People You Know,Hurts
+1,Selena Gomez,English,People You Know,The
+1,Selena Gomez,English,People You Know,Most
+1,Selena Gomez,English,People You Know,Is
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,We
+1,Selena Gomez,English,People You Know,Used
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,Be
+1,Selena Gomez,English,People You Know,Close
+1,Selena Gomez,English,People You Know,But
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,And
+1,Selena Gomez,English,People You Know,What
+1,Selena Gomez,English,People You Know,Hurts
+1,Selena Gomez,English,People You Know,The
+1,Selena Gomez,English,People You Know,Most
+1,Selena Gomez,English,People You Know,Is
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,We
+1,Selena Gomez,English,People You Know,Used
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,Be
+1,Selena Gomez,English,People You Know,Close
+1,Selena Gomez,English,People You Know,But
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,And
+1,Selena Gomez,English,People You Know,What
+1,Selena Gomez,English,People You Know,Hurts
+1,Selena Gomez,English,People You Know,The
+1,Selena Gomez,English,People You Know,Most
+1,Selena Gomez,English,People You Know,Is
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,Can
+1,Selena Gomez,English,People You Know,Go
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Da
+1,Selena Gomez,English,People You Know,Dum
+1,Selena Gomez,English,People You Know,From
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Know
+1,Selena Gomez,English,People You Know,To
+1,Selena Gomez,English,People You Know,People
+1,Selena Gomez,English,People You Know,You
+1,Selena Gomez,English,People You Know,Don't
+1,Selena Gomez,Spanish,De Una Vez,Ya
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,Duele
+1,Selena Gomez,Spanish,De Una Vez,Como
+1,Selena Gomez,Spanish,De Una Vez,Antes
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,La
+1,Selena Gomez,Spanish,De Una Vez,Herida
+1,Selena Gomez,Spanish,De Una Vez,De
+1,Selena Gomez,Spanish,De Una Vez,Tu
+1,Selena Gomez,Spanish,De Una Vez,Amor
+1,Selena Gomez,Spanish,De Una Vez,Sano
+1,Selena Gomez,Spanish,De Una Vez,De
+1,Selena Gomez,Spanish,De Una Vez,Una
+1,Selena Gomez,Spanish,De Una Vez,Vez
+1,Selena Gomez,Spanish,De Una Vez,Por
+1,Selena Gomez,Spanish,De Una Vez,Todas
+1,Selena Gomez,Spanish,De Una Vez,Soy
+1,Selena Gomez,Spanish,De Una Vez,Mas
+1,Selena Gomez,Spanish,De Una Vez,Fuerte
+1,Selena Gomez,Spanish,De Una Vez,Sola
+1,Selena Gomez,Spanish,De Una Vez,Y
+1,Selena Gomez,Spanish,De Una Vez,Es
+1,Selena Gomez,Spanish,De Una Vez,Que
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,Me
+1,Selena Gomez,Spanish,De Una Vez,Arrepiento
+1,Selena Gomez,Spanish,De Una Vez,Del
+1,Selena Gomez,Spanish,De Una Vez,Pasado
+1,Selena Gomez,Spanish,De Una Vez,Se
+1,Selena Gomez,Spanish,De Una Vez,Que
+1,Selena Gomez,Spanish,De Una Vez,El
+1,Selena Gomez,Spanish,De Una Vez,Tiempo
+1,Selena Gomez,Spanish,De Una Vez,A
+1,Selena Gomez,Spanish,De Una Vez,Tu
+1,Selena Gomez,Spanish,De Una Vez,Lado
+1,Selena Gomez,Spanish,De Una Vez,Corto
+1,Selena Gomez,Spanish,De Una Vez,Mis
+1,Selena Gomez,Spanish,De Una Vez,Alas
+1,Selena Gomez,Spanish,De Una Vez,Pero
+1,Selena Gomez,Spanish,De Una Vez,Ahora
+1,Selena Gomez,Spanish,De Una Vez,Este
+1,Selena Gomez,Spanish,De Una Vez,Pecho
+1,Selena Gomez,Spanish,De Una Vez,Es
+1,Selena Gomez,Spanish,De Una Vez,Antibalas
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,Te
+1,Selena Gomez,Spanish,De Una Vez,Tengo
+1,Selena Gomez,Spanish,De Una Vez,A
+1,Selena Gomez,Spanish,De Una Vez,Ti
+1,Selena Gomez,Spanish,De Una Vez,Me
+1,Selena Gomez,Spanish,De Una Vez,Tengo
+1,Selena Gomez,Spanish,De Una Vez,A
+1,Selena Gomez,Spanish,De Una Vez,Mi
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,Es
+1,Selena Gomez,Spanish,De Una Vez,Para
+1,Selena Gomez,Spanish,De Una Vez,Que
+1,Selena Gomez,Spanish,De Una Vez,Pienses
+1,Selena Gomez,Spanish,De Una Vez,Que
+1,Selena Gomez,Spanish,De Una Vez,Esto
+1,Selena Gomez,Spanish,De Una Vez,Es
+1,Selena Gomez,Spanish,De Una Vez,Pa
+1,Selena Gomez,Spanish,De Una Vez,Ti
+1,Selena Gomez,Spanish,De Una Vez,Nah
+1,Selena Gomez,Spanish,De Una Vez,Yo
+1,Selena Gomez,Spanish,De Una Vez,Me
+1,Selena Gomez,Spanish,De Una Vez,Fui
+1,Selena Gomez,Spanish,De Una Vez,Para
+1,Selena Gomez,Spanish,De Una Vez,Que
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,Se
+1,Selena Gomez,Spanish,De Una Vez,Te
+1,Selena Gomez,Spanish,De Una Vez,Olvide
+1,Selena Gomez,Spanish,De Una Vez,De
+1,Selena Gomez,Spanish,De Una Vez,Una
+1,Selena Gomez,Spanish,De Una Vez,Muerte
+1,Selena Gomez,Spanish,De Una Vez,Como
+1,Selena Gomez,Spanish,De Una Vez,Tu
+1,Selena Gomez,Spanish,De Una Vez,Se
+1,Selena Gomez,Spanish,De Una Vez,Revive
+1,Selena Gomez,Spanish,De Una Vez,Cuando
+1,Selena Gomez,Spanish,De Una Vez,Se
+1,Selena Gomez,Spanish,De Una Vez,Se
+1,Selena Gomez,Spanish,De Una Vez,Que
+1,Selena Gomez,Spanish,De Una Vez,El
+1,Selena Gomez,Spanish,De Una Vez,Ultimo
+1,Selena Gomez,Spanish,De Una Vez,Mar
+1,Selena Gomez,Spanish,De Una Vez,Es
+1,Selena Gomez,Spanish,De Una Vez,Cuando
+1,Selena Gomez,Spanish,De Una Vez,Pensare
+1,Selena Gomez,Spanish,De Una Vez,En
+1,Selena Gomez,Spanish,De Una Vez,Regresar
+1,Selena Gomez,Spanish,De Una Vez,Esta
+1,Selena Gomez,Spanish,De Una Vez,Sobreentendido
+1,Selena Gomez,Spanish,De Una Vez,Lo
+1,Selena Gomez,Spanish,De Una Vez,Que
+1,Selena Gomez,Spanish,De Una Vez,Siento
+1,Selena Gomez,Spanish,De Una Vez,Ya
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,Estas
+1,Selena Gomez,Spanish,De Una Vez,Que
+1,Selena Gomez,Spanish,De Una Vez,Bueno
+1,Selena Gomez,Spanish,De Una Vez,Es
+1,Selena Gomez,Spanish,De Una Vez,El
+1,Selena Gomez,Spanish,De Una Vez,Tiempo
+1,Selena Gomez,Spanish,De Una Vez,Estoy
+1,Selena Gomez,Spanish,De Una Vez,Curada
+1,Selena Gomez,Spanish,De Una Vez,De
+1,Selena Gomez,Spanish,De Una Vez,Ti
+1,Selena Gomez,Spanish,De Una Vez,Te
+1,Selena Gomez,Spanish,De Una Vez,Dije
+1,Selena Gomez,Spanish,De Una Vez,Ya
+1,Selena Gomez,Spanish,De Una Vez,Ya
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,Te
+1,Selena Gomez,Spanish,De Una Vez,Siento
+1,Selena Gomez,Spanish,De Una Vez,Aqui
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,Te
+1,Selena Gomez,Spanish,De Una Vez,Siento
+1,Selena Gomez,Spanish,De Una Vez,Ya
+1,Selena Gomez,Spanish,De Una Vez,Nunca
+1,Selena Gomez,Spanish,De Una Vez,Supiste
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,Me
+1,Selena Gomez,Spanish,De Una Vez,Supiste
+1,Selena Gomez,Spanish,De Una Vez,Valorar
+1,Selena Gomez,Spanish,De Una Vez,Y
+1,Selena Gomez,Spanish,De Una Vez,De
+1,Selena Gomez,Spanish,De Una Vez,Una
+1,Selena Gomez,Spanish,De Una Vez,Vez
+1,Selena Gomez,Spanish,De Una Vez,Por
+1,Selena Gomez,Spanish,De Una Vez,Todas
+1,Selena Gomez,Spanish,De Una Vez,Soy
+1,Selena Gomez,Spanish,De Una Vez,Mas
+1,Selena Gomez,Spanish,De Una Vez,Fuerte
+1,Selena Gomez,Spanish,De Una Vez,Sola
+1,Selena Gomez,Spanish,De Una Vez,Y
+1,Selena Gomez,Spanish,De Una Vez,Es
+1,Selena Gomez,Spanish,De Una Vez,Que
+1,Selena Gomez,Spanish,De Una Vez,No
+1,Selena Gomez,Spanish,De Una Vez,Me
+1,Selena Gomez,Spanish,De Una Vez,Arrepiento
+1,Selena Gomez,Spanish,De Una Vez,Del
+1,Selena Gomez,Spanish,De Una Vez,Pasado
+1,Selena Gomez,Spanish,De Una Vez,Se
+1,Selena Gomez,Spanish,De Una Vez,Que
+1,Selena Gomez,Spanish,De Una Vez,El
+1,Selena Gomez,Spanish,De Una Vez,Tiempo
+1,Selena Gomez,Spanish,De Una Vez,A
+1,Selena Gomez,Spanish,De Una Vez,Tu
+1,Selena Gomez,Spanish,De Una Vez,Lado
+1,Selena Gomez,Spanish,De Una Vez,Corto
+1,Selena Gomez,Spanish,De Una Vez,Mis
+1,Selena Gomez,Spanish,De Una Vez,Alas
+1,Selena Gomez,Spanish,De Una Vez,Pero
+1,Selena Gomez,Spanish,De Una Vez,Ahora
+1,Selena Gomez,Spanish,De Una Vez,Este
+1,Selena Gomez,Spanish,De Una Vez,Pecho
+1,Selena Gomez,Spanish,De Una Vez,Es
+1,Selena Gomez,Spanish,De Una Vez,Antibalas
+1,Rauw Alejandro,Spanish,Baila Conmigo,Bebe
+1,Rauw Alejandro,Spanish,Baila Conmigo,No
+1,Rauw Alejandro,Spanish,Baila Conmigo,Se
+1,Rauw Alejandro,Spanish,Baila Conmigo,Si
+1,Rauw Alejandro,Spanish,Baila Conmigo,Habla'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Mucho
+1,Rauw Alejandro,Spanish,Baila Conmigo,Español
+1,Rauw Alejandro,Spanish,Baila Conmigo,Si
+1,Rauw Alejandro,Spanish,Baila Conmigo,Entiende'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Cuando
+1,Rauw Alejandro,Spanish,Baila Conmigo,Digo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Mi
+1,Rauw Alejandro,Spanish,Baila Conmigo,Amor
+1,Rauw Alejandro,Spanish,Baila Conmigo,Comerno'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sin
+1,Rauw Alejandro,Spanish,Baila Conmigo,Entenderno'
+1,Rauw Alejandro,Spanish,Baila Conmigo,E'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Mejor
+1,Rauw Alejandro,Spanish,Baila Conmigo,Solo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Tenemo'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,Gustarno'
+1,Selena Gomez,Spanish,Baila Conmigo,Quieres
+1,Selena Gomez,Spanish,Baila Conmigo,Que
+1,Selena Gomez,Spanish,Baila Conmigo,Caiga
+1,Selena Gomez,Spanish,Baila Conmigo,En
+1,Selena Gomez,Spanish,Baila Conmigo,Tentaciones
+1,Selena Gomez,Spanish,Baila Conmigo,Mira
+1,Selena Gomez,Spanish,Baila Conmigo,Como
+1,Selena Gomez,Spanish,Baila Conmigo,Me
+1,Selena Gomez,Spanish,Baila Conmigo,Pone'
+1,Selena Gomez,Spanish,Baila Conmigo,Ese
+1,Selena Gomez,Spanish,Baila Conmigo,Acento
+1,Selena Gomez,Spanish,Baila Conmigo,Que
+1,Selena Gomez,Spanish,Baila Conmigo,Tienes
+1,Selena Gomez,Spanish,Baila Conmigo,No
+1,Selena Gomez,Spanish,Baila Conmigo,Entiendo
+1,Selena Gomez,Spanish,Baila Conmigo,Mucho
+1,Selena Gomez,Spanish,Baila Conmigo,Pero
+1,Selena Gomez,Spanish,Baila Conmigo,Vente
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Conmigo
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Que
+1,Selena Gomez,Spanish,Baila Conmigo,Yo
+1,Selena Gomez,Spanish,Baila Conmigo,Te
+1,Selena Gomez,Spanish,Baila Conmigo,Sigo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Pegate
+1,Rauw Alejandro,Spanish,Baila Conmigo,Ven
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sueltate
+1,Rauw Alejandro,Spanish,Baila Conmigo,No
+1,Rauw Alejandro,Spanish,Baila Conmigo,Te
+1,Rauw Alejandro,Spanish,Baila Conmigo,Me
+1,Rauw Alejandro,Spanish,Baila Conmigo,Vayas
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sin
+1,Rauw Alejandro,Spanish,Baila Conmigo,Las
+1,Rauw Alejandro,Spanish,Baila Conmigo,Gana'
+1,Rauw Alejandro,Spanish,Baila Conmigo,De
+1,Rauw Alejandro,Spanish,Baila Conmigo,Volver
+1,Rauw Alejandro,Spanish,Baila Conmigo,Por
+1,Rauw Alejandro,Spanish,Baila Conmigo,Eso
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Conmigo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,Yo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Te
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sigo
+1,Selena Gomez,Spanish,Baila Conmigo,Besame
+1,Selena Gomez,Spanish,Baila Conmigo,Solo
+1,Selena Gomez,Spanish,Baila Conmigo,Una
+1,Selena Gomez,Spanish,Baila Conmigo,Vez
+1,Selena Gomez,Spanish,Baila Conmigo,Asi
+1,Selena Gomez,Spanish,Baila Conmigo,Tеngo
+1,Selena Gomez,Spanish,Baila Conmigo,Un
+1,Selena Gomez,Spanish,Baila Conmigo,Motivo
+1,Selena Gomez,Spanish,Baila Conmigo,Pa'
+1,Selena Gomez,Spanish,Baila Conmigo,Volverte
+1,Selena Gomez,Spanish,Baila Conmigo,A
+1,Selena Gomez,Spanish,Baila Conmigo,Ver
+1,Rauw Alejandro,Spanish,Baila Conmigo,Cinceramente
+1,Rauw Alejandro,Spanish,Baila Conmigo,Dejemo'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,Esto
+1,Rauw Alejandro,Spanish,Baila Conmigo,Fluya
+1,Rauw Alejandro,Spanish,Baila Conmigo,No
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sigas
+1,Rauw Alejandro,Spanish,Baila Conmigo,Dandole
+1,Rauw Alejandro,Spanish,Baila Conmigo,Mente
+1,Rauw Alejandro,Spanish,Baila Conmigo,Tenemo'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Toa'
+1,Rauw Alejandro,Spanish,Baila Conmigo,La
+1,Rauw Alejandro,Spanish,Baila Conmigo,Noche
+1,Rauw Alejandro,Spanish,Baila Conmigo,Pa'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,Me
+1,Rauw Alejandro,Spanish,Baila Conmigo,Enseñe'
+1,Rauw Alejandro,Spanish,Baila Conmigo,De
+1,Rauw Alejandro,Spanish,Baila Conmigo,Frente
+1,Rauw Alejandro,Spanish,Baila Conmigo,Todo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Lo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,Siente'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Me
+1,Rauw Alejandro,Spanish,Baila Conmigo,Huele
+1,Rauw Alejandro,Spanish,Baila Conmigo,A
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,No
+1,Rauw Alejandro,Spanish,Baila Conmigo,Tiene'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Nada
+1,Rauw Alejandro,Spanish,Baila Conmigo,De
+1,Rauw Alejandro,Spanish,Baila Conmigo,Inocente
+1,Selena Gomez,Spanish,Baila Conmigo,Como
+1,Selena Gomez,Spanish,Baila Conmigo,Te
+1,Selena Gomez,Spanish,Baila Conmigo,Digo
+1,Selena Gomez,Spanish,Baila Conmigo,Que
+1,Selena Gomez,Spanish,Baila Conmigo,No
+1,Selena Gomez,Spanish,Baila Conmigo,Quiero
+1,Selena Gomez,Spanish,Baila Conmigo,Hablar
+1,Selena Gomez,Spanish,Baila Conmigo,De
+1,Selena Gomez,Spanish,Baila Conmigo,Amor
+1,Selena Gomez,Spanish,Baila Conmigo,Que
+1,Selena Gomez,Spanish,Baila Conmigo,Si
+1,Selena Gomez,Spanish,Baila Conmigo,Contigo
+1,Selena Gomez,Spanish,Baila Conmigo,Tengo
+1,Selena Gomez,Spanish,Baila Conmigo,Que
+1,Selena Gomez,Spanish,Baila Conmigo,Pensar
+1,Selena Gomez,Spanish,Baila Conmigo,Mejor
+1,Selena Gomez,Spanish,Baila Conmigo,Tranqui'
+1,Selena Gomez,Spanish,Baila Conmigo,Dejalo
+1,Selena Gomez,Spanish,Baila Conmigo,Asi
+1,Selena Gomez,Spanish,Baila Conmigo,Quiero
+1,Selena Gomez,Spanish,Baila Conmigo,Quedarme
+1,Selena Gomez,Spanish,Baila Conmigo,Aqui
+1,Selena Gomez,Spanish,Baila Conmigo,Pegate
+1,Selena Gomez,Spanish,Baila Conmigo,Ven
+1,Selena Gomez,Spanish,Baila Conmigo,A
+1,Selena Gomez,Spanish,Baila Conmigo,Mi
+1,Selena Gomez,Spanish,Baila Conmigo,Pegate
+1,Selena Gomez,Spanish,Baila Conmigo,Ven
+1,Selena Gomez,Spanish,Baila Conmigo,A
+1,Selena Gomez,Spanish,Baila Conmigo,Mi
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Conmigo
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Que
+1,Selena Gomez,Spanish,Baila Conmigo,Yo
+1,Selena Gomez,Spanish,Baila Conmigo,Te
+1,Selena Gomez,Spanish,Baila Conmigo,Sigo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Pegate
+1,Rauw Alejandro,Spanish,Baila Conmigo,Ven
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sueltate
+1,Rauw Alejandro,Spanish,Baila Conmigo,No
+1,Rauw Alejandro,Spanish,Baila Conmigo,Te
+1,Rauw Alejandro,Spanish,Baila Conmigo,Me
+1,Rauw Alejandro,Spanish,Baila Conmigo,Vayas
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sin
+1,Rauw Alejandro,Spanish,Baila Conmigo,Las
+1,Rauw Alejandro,Spanish,Baila Conmigo,Gana'
+1,Rauw Alejandro,Spanish,Baila Conmigo,De
+1,Rauw Alejandro,Spanish,Baila Conmigo,Volver
+1,Rauw Alejandro,Spanish,Baila Conmigo,Por
+1,Rauw Alejandro,Spanish,Baila Conmigo,Eso
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Conmigo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,Yo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Te
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sigo
+1,Selena Gomez,Spanish,Baila Conmigo,Besame
+1,Selena Gomez,Spanish,Baila Conmigo,Solo
+1,Selena Gomez,Spanish,Baila Conmigo,Una
+1,Selena Gomez,Spanish,Baila Conmigo,Vez
+1,Selena Gomez,Spanish,Baila Conmigo,Asi
+1,Selena Gomez,Spanish,Baila Conmigo,Tengo
+1,Selena Gomez,Spanish,Baila Conmigo,Un
+1,Selena Gomez,Spanish,Baila Conmigo,Motivo
+1,Selena Gomez,Spanish,Baila Conmigo,Pa'
+1,Selena Gomez,Spanish,Baila Conmigo,Volverte
+1,Selena Gomez,Spanish,Baila Conmigo,A
+1,Selena Gomez,Spanish,Baila Conmigo,Ver
+1,Rauw Alejandro,Spanish,Baila Conmigo,Te
+1,Rauw Alejandro,Spanish,Baila Conmigo,Voy
+1,Rauw Alejandro,Spanish,Baila Conmigo,A
+1,Rauw Alejandro,Spanish,Baila Conmigo,Dejar
+1,Rauw Alejandro,Spanish,Baila Conmigo,Mi
+1,Rauw Alejandro,Spanish,Baila Conmigo,Número
+1,Rauw Alejandro,Spanish,Baila Conmigo,Solo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Tiene'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,Llamar
+1,Rauw Alejandro,Spanish,Baila Conmigo,Cuando
+1,Rauw Alejandro,Spanish,Baila Conmigo,Me
+1,Rauw Alejandro,Spanish,Baila Conmigo,Eches
+1,Rauw Alejandro,Spanish,Baila Conmigo,De
+1,Rauw Alejandro,Spanish,Baila Conmigo,Meno'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,Yo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Le
+1,Rauw Alejandro,Spanish,Baila Conmigo,Voy
+1,Rauw Alejandro,Spanish,Baila Conmigo,A
+1,Rauw Alejandro,Spanish,Baila Conmigo,Llegar
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baby
+1,Rauw Alejandro,Spanish,Baila Conmigo,AunQue
+1,Rauw Alejandro,Spanish,Baila Conmigo,Me
+1,Rauw Alejandro,Spanish,Baila Conmigo,Quede
+1,Rauw Alejandro,Spanish,Baila Conmigo,Lejo'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Woh-oh
+1,Rauw Alejandro,Spanish,Baila Conmigo,La
+1,Rauw Alejandro,Spanish,Baila Conmigo,Nena
+1,Rauw Alejandro,Spanish,Baila Conmigo,E'
+1,Rauw Alejandro,Spanish,Baila Conmigo,De
+1,Rauw Alejandro,Spanish,Baila Conmigo,Otra
+1,Rauw Alejandro,Spanish,Baila Conmigo,Ciuda'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Pero
+1,Rauw Alejandro,Spanish,Baila Conmigo,Le
+1,Rauw Alejandro,Spanish,Baila Conmigo,Corre
+1,Rauw Alejandro,Spanish,Baila Conmigo,Mi
+1,Rauw Alejandro,Spanish,Baila Conmigo,Flow
+1,Rauw Alejandro,Spanish,Baila Conmigo,Tenía
+1,Rauw Alejandro,Spanish,Baila Conmigo,Curiosida'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Y
+1,Rauw Alejandro,Spanish,Baila Conmigo,Un
+1,Rauw Alejandro,Spanish,Baila Conmigo,BEso
+1,Rauw Alejandro,Spanish,Baila Conmigo,Me
+1,Rauw Alejandro,Spanish,Baila Conmigo,Robo
+1,Rauw Alejandro,Spanish,Baila Conmigo,No
+1,Rauw Alejandro,Spanish,Baila Conmigo,Nos
+1,Rauw Alejandro,Spanish,Baila Conmigo,Tenemo'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,Hablar
+1,Rauw Alejandro,Spanish,Baila Conmigo,Si
+1,Rauw Alejandro,Spanish,Baila Conmigo,Con
+1,Rauw Alejandro,Spanish,Baila Conmigo,Mirarno'
+1,Rauw Alejandro,Spanish,Baila Conmigo,No'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Entendemo'
+1,Rauw Alejandro,Spanish,Baila Conmigo,Yeah
+1,Selena Gomez,Spanish,Baila Conmigo,No
+1,Selena Gomez,Spanish,Baila Conmigo,Entiendo
+1,Selena Gomez,Spanish,Baila Conmigo,Mucho
+1,Selena Gomez,Spanish,Baila Conmigo,Pero
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Conmigo
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Baila
+1,Selena Gomez,Spanish,Baila Conmigo,Que
+1,Selena Gomez,Spanish,Baila Conmigo,Yo
+1,Selena Gomez,Spanish,Baila Conmigo,Te
+1,Selena Gomez,Spanish,Baila Conmigo,Sigo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Pegate
+1,Rauw Alejandro,Spanish,Baila Conmigo,Ven
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sueltate
+1,Rauw Alejandro,Spanish,Baila Conmigo,No
+1,Rauw Alejandro,Spanish,Baila Conmigo,Te
+1,Rauw Alejandro,Spanish,Baila Conmigo,Me
+1,Rauw Alejandro,Spanish,Baila Conmigo,Vayas
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sin
+1,Rauw Alejandro,Spanish,Baila Conmigo,Las
+1,Rauw Alejandro,Spanish,Baila Conmigo,Gana'
+1,Rauw Alejandro,Spanish,Baila Conmigo,De
+1,Rauw Alejandro,Spanish,Baila Conmigo,Volver
+1,Rauw Alejandro,Spanish,Baila Conmigo,Por
+1,Rauw Alejandro,Spanish,Baila Conmigo,Eso
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Conmigo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Baila
+1,Rauw Alejandro,Spanish,Baila Conmigo,Que
+1,Rauw Alejandro,Spanish,Baila Conmigo,Yo
+1,Rauw Alejandro,Spanish,Baila Conmigo,Te
+1,Rauw Alejandro,Spanish,Baila Conmigo,Sigo
+1,Selena Gomez,Spanish,Baila Conmigo,Besame
+1,Selena Gomez,Spanish,Baila Conmigo,Solo
+1,Selena Gomez,Spanish,Baila Conmigo,Una
+1,Selena Gomez,Spanish,Baila Conmigo,Vez
+1,Selena Gomez,Spanish,Baila Conmigo,Asi
+1,Selena Gomez,Spanish,Baila Conmigo,Tengo
+1,Selena Gomez,Spanish,Baila Conmigo,Un
+1,Selena Gomez,Spanish,Baila Conmigo,Motivo
+1,Selena Gomez,Spanish,Baila Conmigo,Pa'
+1,Selena Gomez,Spanish,Baila Conmigo,Volverte
+1,Selena Gomez,Spanish,Baila Conmigo,A
+1,Selena Gomez,Spanish,Baila Conmigo,Ver
+1,Selena Gomez,Spanish,Baila Conmigo,Yeah
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Mi
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Por
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,BEso
+1,Selena Gomez,Spanish,Vicio,Tuyo
+1,Selena Gomez,Spanish,Vicio,Todo
+1,Selena Gomez,Spanish,Vicio,Lo
+1,Selena Gomez,Spanish,Vicio,Arriesgo
+1,Selena Gomez,Spanish,Vicio,Y
+1,Selena Gomez,Spanish,Vicio,Tu
+1,Selena Gomez,Spanish,Vicio,Corazon
+1,Selena Gomez,Spanish,Vicio,Palpita
+1,Selena Gomez,Spanish,Vicio,Con
+1,Selena Gomez,Spanish,Vicio,El
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Es
+1,Selena Gomez,Spanish,Vicio,El
+1,Selena Gomez,Spanish,Vicio,Tempo
+1,Selena Gomez,Spanish,Vicio,Perfecto
+1,Selena Gomez,Spanish,Vicio,BEso
+1,Selena Gomez,Spanish,Vicio,A
+1,Selena Gomez,Spanish,Vicio,BEso
+1,Selena Gomez,Spanish,Vicio,Me
+1,Selena Gomez,Spanish,Vicio,Di
+1,Selena Gomez,Spanish,Vicio,Cuenta
+1,Selena Gomez,Spanish,Vicio,Que
+1,Selena Gomez,Spanish,Vicio,Te
+1,Selena Gomez,Spanish,Vicio,Necesito
+1,Selena Gomez,Spanish,Vicio,Igual
+1,Selena Gomez,Spanish,Vicio,Que
+1,Selena Gomez,Spanish,Vicio,Ayer
+1,Selena Gomez,Spanish,Vicio,Asi
+1,Selena Gomez,Spanish,Vicio,Como
+1,Selena Gomez,Spanish,Vicio,Eres
+1,Selena Gomez,Spanish,Vicio,Yo
+1,Selena Gomez,Spanish,Vicio,Quiero
+1,Selena Gomez,Spanish,Vicio,Tenerte
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Besame
+1,Selena Gomez,Spanish,Vicio,Despacio
+1,Selena Gomez,Spanish,Vicio,Besame
+1,Selena Gomez,Spanish,Vicio,Despacio
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Tu
+1,Selena Gomez,Spanish,Vicio,Me
+1,Selena Gomez,Spanish,Vicio,Sanaste
+1,Selena Gomez,Spanish,Vicio,El
+1,Selena Gomez,Spanish,Vicio,Corazon
+1,Selena Gomez,Spanish,Vicio,Le
+1,Selena Gomez,Spanish,Vicio,Diste
+1,Selena Gomez,Spanish,Vicio,Vida
+1,Selena Gomez,Spanish,Vicio,A
+1,Selena Gomez,Spanish,Vicio,Lo
+1,Selena Gomez,Spanish,Vicio,Que
+1,Selena Gomez,Spanish,Vicio,Estaba
+1,Selena Gomez,Spanish,Vicio,Muerto
+1,Selena Gomez,Spanish,Vicio,No
+1,Selena Gomez,Spanish,Vicio,Creia
+1,Selena Gomez,Spanish,Vicio,En
+1,Selena Gomez,Spanish,Vicio,El
+1,Selena Gomez,Spanish,Vicio,Amor
+1,Selena Gomez,Spanish,Vicio,PorQue
+1,Selena Gomez,Spanish,Vicio,No
+1,Selena Gomez,Spanish,Vicio,Era
+1,Selena Gomez,Spanish,Vicio,El
+1,Selena Gomez,Spanish,Vicio,Momento
+1,Selena Gomez,Spanish,Vicio,Y
+1,Selena Gomez,Spanish,Vicio,Es
+1,Selena Gomez,Spanish,Vicio,Que
+1,Selena Gomez,Spanish,Vicio,Fue
+1,Selena Gomez,Spanish,Vicio,Sin
+1,Selena Gomez,Spanish,Vicio,Aviso
+1,Selena Gomez,Spanish,Vicio,Te
+1,Selena Gomez,Spanish,Vicio,Aviso
+1,Selena Gomez,Spanish,Vicio,Si
+1,Selena Gomez,Spanish,Vicio,No
+1,Selena Gomez,Spanish,Vicio,Te
+1,Selena Gomez,Spanish,Vicio,Tengo
+1,Selena Gomez,Spanish,Vicio,Yo
+1,Selena Gomez,Spanish,Vicio,Me
+1,Selena Gomez,Spanish,Vicio,Pongo
+1,Selena Gomez,Spanish,Vicio,Mal
+1,Selena Gomez,Spanish,Vicio,Te
+1,Selena Gomez,Spanish,Vicio,Necesito
+1,Selena Gomez,Spanish,Vicio,Conmigo
+1,Selena Gomez,Spanish,Vicio,Nadie
+1,Selena Gomez,Spanish,Vicio,Me
+1,Selena Gomez,Spanish,Vicio,Da
+1,Selena Gomez,Spanish,Vicio,Lo
+1,Selena Gomez,Spanish,Vicio,Que
+1,Selena Gomez,Spanish,Vicio,Tu
+1,Selena Gomez,Spanish,Vicio,Me
+1,Selena Gomez,Spanish,Vicio,Das
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Besame
+1,Selena Gomez,Spanish,Vicio,Despacio
+1,Selena Gomez,Spanish,Vicio,Besame
+1,Selena Gomez,Spanish,Vicio,Despacio
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Besame
+1,Selena Gomez,Spanish,Vicio,Despacio
+1,Selena Gomez,Spanish,Vicio,Besame
+1,Selena Gomez,Spanish,Vicio,Despacio
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Tus
+1,Selena Gomez,Spanish,Vicio,Labios
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Mio
+1,Selena Gomez,Spanish,Vicio,Son
+1,Selena Gomez,Spanish,Vicio,Mi
+1,Selena Gomez,Spanish,Vicio,Vicio
+1,Selena Gomez,Spanish,Vicio,Por
+1,Selena Gomez,Spanish,Vicio,Un
+1,Selena Gomez,Spanish,Vicio,BEso
+1,Selena Gomez,Spanish,Vicio,Tuyo
+1,Selena Gomez,Spanish,Vicio,Todo
+1,Selena Gomez,Spanish,Vicio,Lo
+1,Selena Gomez,Spanish,Vicio,Arriesgo
+1,Selena Gomez,English,Back To You,Took
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,Like
+1,Selena Gomez,English,Back To You,A
+1,Selena Gomez,English,Back To You,Shot
+1,Selena Gomez,English,Back To You,Thought
+1,Selena Gomez,English,Back To You,That
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Could
+1,Selena Gomez,English,Back To You,Chase
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,With
+1,Selena Gomez,English,Back To You,A
+1,Selena Gomez,English,Back To You,Cold
+1,Selena Gomez,English,Back To You,Evening
+1,Selena Gomez,English,Back To You,Let
+1,Selena Gomez,English,Back To You,A
+1,Selena Gomez,English,Back To You,Couple
+1,Selena Gomez,English,Back To You,Years
+1,Selena Gomez,English,Back To You,Water
+1,Selena Gomez,English,Back To You,Down
+1,Selena Gomez,English,Back To You,How
+1,Selena Gomez,English,Back To You,I'm
+1,Selena Gomez,English,Back To You,Feeling
+1,Selena Gomez,English,Back To You,About
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,And
+1,Selena Gomez,English,Back To You,Every
+1,Selena Gomez,English,Back To You,Time
+1,Selena Gomez,English,Back To You,We
+1,Selena Gomez,English,Back To You,Talk
+1,Selena Gomez,English,Back To You,Every
+1,Selena Gomez,English,Back To You,Single
+1,Selena Gomez,English,Back To You,Word
+1,Selena Gomez,English,Back To You,Builds
+1,Selena Gomez,English,Back To You,Up
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,This
+1,Selena Gomez,English,Back To You,Moment
+1,Selena Gomez,English,Back To You,And
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Gotta
+1,Selena Gomez,English,Back To You,Convince
+1,Selena Gomez,English,Back To You,Myself
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Don't
+1,Selena Gomez,English,Back To You,Want
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,Even
+1,Selena Gomez,English,Back To You,Though
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Do
+1,Selena Gomez,English,Back To You,Even
+1,Selena Gomez,English,Back To You,Though
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Do
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,Could
+1,Selena Gomez,English,Back To You,Break
+1,Selena Gomez,English,Back To You,My
+1,Selena Gomez,English,Back To You,Heart
+1,Selena Gomez,English,Back To You,In
+1,Selena Gomez,English,Back To You,Two
+1,Selena Gomez,English,Back To You,But
+1,Selena Gomez,English,Back To You,When
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,Heals
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,Beats
+1,Selena Gomez,English,Back To You,For
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,It's
+1,Selena Gomez,English,Back To You,Forward
+1,Selena Gomez,English,Back To You,But
+1,Selena Gomez,English,Back To You,It's
+1,Selena Gomez,English,Back To You,True
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Wanna
+1,Selena Gomez,English,Back To You,Hold
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,When
+1,Selena Gomez,English,Back To You,I'm
+1,Selena Gomez,English,Back To You,Not
+1,Selena Gomez,English,Back To You,Supposed
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,When
+1,Selena Gomez,English,Back To You,I'm
+1,Selena Gomez,English,Back To You,Lying
+1,Selena Gomez,English,Back To You,Close
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,Someone
+1,Selena Gomez,English,Back To You,Else
+1,Selena Gomez,English,Back To You,You're
+1,Selena Gomez,English,Back To You,Stuck
+1,Selena Gomez,English,Back To You,In
+1,Selena Gomez,English,Back To You,My
+1,Selena Gomez,English,Back To You,Head
+1,Selena Gomez,English,Back To You,And
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Can't
+1,Selena Gomez,English,Back To You,Get
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,Out
+1,Selena Gomez,English,Back To You,Of
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,If
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Could
+1,Selena Gomez,English,Back To You,Do
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,All
+1,Selena Gomez,English,Back To You,Again
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,We
+1,Selena Gomez,English,Back To You,Never
+1,Selena Gomez,English,Back To You,Got
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,Right
+1,Selena Gomez,English,Back To You,Playing
+1,Selena Gomez,English,Back To You,And
+1,Selena Gomez,English,Back To You,Replaying
+1,Selena Gomez,English,Back To You,Old
+1,Selena Gomez,English,Back To You,Conversations
+1,Selena Gomez,English,Back To You,Overthinking
+1,Selena Gomez,English,Back To You,Every
+1,Selena Gomez,English,Back To You,Word
+1,Selena Gomez,English,Back To You,And
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Hate
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,'Cause
+1,Selena Gomez,English,Back To You,It's
+1,Selena Gomez,English,Back To You,Not
+1,Selena Gomez,English,Back To You,Me
+1,Selena Gomez,English,Back To You,And
+1,Selena Gomez,English,Back To You,What's
+1,Selena Gomez,English,Back To You,The
+1,Selena Gomez,English,Back To You,Point
+1,Selena Gomez,English,Back To You,In
+1,Selena Gomez,English,Back To You,Hiding?
+1,Selena Gomez,English,Back To You,Everybody
+1,Selena Gomez,English,Back To You,Knows
+1,Selena Gomez,English,Back To You,We
+1,Selena Gomez,English,Back To You,Got
+1,Selena Gomez,English,Back To You,Unfinished
+1,Selena Gomez,English,Back To You,Business
+1,Selena Gomez,English,Back To You,And
+1,Selena Gomez,English,Back To You,I'll
+1,Selena Gomez,English,Back To You,Regret
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,If
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Didn't
+1,Selena Gomez,English,Back To You,Say
+1,Selena Gomez,English,Back To You,This
+1,Selena Gomez,English,Back To You,Isn't
+1,Selena Gomez,English,Back To You,What
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,Could
+1,Selena Gomez,English,Back To You,Be
+1,Selena Gomez,English,Back To You,Isn't
+1,Selena Gomez,English,Back To You,What
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,Could
+1,Selena Gomez,English,Back To You,Be
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,Could
+1,Selena Gomez,English,Back To You,Break
+1,Selena Gomez,English,Back To You,My
+1,Selena Gomez,English,Back To You,Heart
+1,Selena Gomez,English,Back To You,In
+1,Selena Gomez,English,Back To You,Two
+1,Selena Gomez,English,Back To You,But
+1,Selena Gomez,English,Back To You,When
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,Heals
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,Beats
+1,Selena Gomez,English,Back To You,For
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,It's
+1,Selena Gomez,English,Back To You,Forward
+1,Selena Gomez,English,Back To You,But
+1,Selena Gomez,English,Back To You,It's
+1,Selena Gomez,English,Back To You,True
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Wanna
+1,Selena Gomez,English,Back To You,Hold
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,When
+1,Selena Gomez,English,Back To You,I'm
+1,Selena Gomez,English,Back To You,Not
+1,Selena Gomez,English,Back To You,Supposed
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,When
+1,Selena Gomez,English,Back To You,I'm
+1,Selena Gomez,English,Back To You,Lying
+1,Selena Gomez,English,Back To You,Close
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,Someone
+1,Selena Gomez,English,Back To You,Else
+1,Selena Gomez,English,Back To You,You're
+1,Selena Gomez,English,Back To You,Stuck
+1,Selena Gomez,English,Back To You,In
+1,Selena Gomez,English,Back To You,My
+1,Selena Gomez,English,Back To You,Head
+1,Selena Gomez,English,Back To You,And
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Can't
+1,Selena Gomez,English,Back To You,Get
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,Out
+1,Selena Gomez,English,Back To You,Of
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,If
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Could
+1,Selena Gomez,English,Back To You,Do
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,All
+1,Selena Gomez,English,Back To You,Again
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,What
+1,Selena Gomez,English,Back To You,Was
+1,Selena Gomez,English,Back To You,There
+1,Selena Gomez,English,Back To You,Wasn't
+1,Selena Gomez,English,Back To You,Sure
+1,Selena Gomez,English,Back To You,But
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,Can
+1,Selena Gomez,English,Back To You,Break
+1,Selena Gomez,English,Back To You,My
+1,Selena Gomez,English,Back To You,Heart
+1,Selena Gomez,English,Back To You,In
+1,Selena Gomez,English,Back To You,Two
+1,Selena Gomez,English,Back To You,But
+1,Selena Gomez,English,Back To You,When
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,Heals
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,Beats
+1,Selena Gomez,English,Back To You,For
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,It's
+1,Selena Gomez,English,Back To You,Forward
+1,Selena Gomez,English,Back To You,But
+1,Selena Gomez,English,Back To You,It's
+1,Selena Gomez,English,Back To You,True
+1,Selena Gomez,English,Back To You,Won't
+1,Selena Gomez,English,Back To You,Lie
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,My
+1,Selena Gomez,English,Back To You,Thoughts
+1,Selena Gomez,English,Back To You,Are
+1,Selena Gomez,English,Back To You,Running
+1,Selena Gomez,English,Back To You,Loose
+1,Selena Gomez,English,Back To You,It's
+1,Selena Gomez,English,Back To You,Just
+1,Selena Gomez,English,Back To You,A
+1,Selena Gomez,English,Back To You,Thing
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,Make
+1,Selena Gomez,English,Back To You,Me
+1,Selena Gomez,English,Back To You,Do
+1,Selena Gomez,English,Back To You,And
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Could
+1,Selena Gomez,English,Back To You,Fight
+1,Selena Gomez,English,Back To You,But
+1,Selena Gomez,English,Back To You,What's
+1,Selena Gomez,English,Back To You,The
+1,Selena Gomez,English,Back To You,Use
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Wanna
+1,Selena Gomez,English,Back To You,Hold
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,When
+1,Selena Gomez,English,Back To You,I'm
+1,Selena Gomez,English,Back To You,Not
+1,Selena Gomez,English,Back To You,Supposed
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,When
+1,Selena Gomez,English,Back To You,I'm
+1,Selena Gomez,English,Back To You,Not
+1,Selena Gomez,English,Back To You,Supposed
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,When
+1,Selena Gomez,English,Back To You,I'm
+1,Selena Gomez,English,Back To You,Lying
+1,Selena Gomez,English,Back To You,Close
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,Someone
+1,Selena Gomez,English,Back To You,Else
+1,Selena Gomez,English,Back To You,You're
+1,Selena Gomez,English,Back To You,Stuck
+1,Selena Gomez,English,Back To You,In
+1,Selena Gomez,English,Back To You,My
+1,Selena Gomez,English,Back To You,Head
+1,Selena Gomez,English,Back To You,And
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Can't
+1,Selena Gomez,English,Back To You,Get
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,Out
+1,Selena Gomez,English,Back To You,Of
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,If
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Could
+1,Selena Gomez,English,Back To You,Do
+1,Selena Gomez,English,Back To You,It
+1,Selena Gomez,English,Back To You,All
+1,Selena Gomez,English,Back To You,Again
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
+1,Selena Gomez,English,Back To You,I
+1,Selena Gomez,English,Back To You,Know
+1,Selena Gomez,English,Back To You,I'd
+1,Selena Gomez,English,Back To You,Go
+1,Selena Gomez,English,Back To You,Back
+1,Selena Gomez,English,Back To You,To
+1,Selena Gomez,English,Back To You,You
